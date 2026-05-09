@@ -1,10 +1,28 @@
 # Experiment Log
 
+## 2026-05-09 Export
+
+Five submissions were used. The best individual score observed today was 1031.7, but the final visible score settled at 844.8 because only the latest two active submissions count for the visible team score.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 918.7 | Strong public result after score drift. |
+| 2 | 829.7 | Moderate transfer. |
+| 3 | 1031.7 | Best individual result in this log window, not preserved in final active slots. |
+| 4 | 844.8 | Final active contributor. |
+| 5 | 693.7 | Final-slot recovery attempt underperformed. |
+
+Lessons:
+
+- Wait longer for the first three submissions to stabilize before spending the final two slots.
+- If a same-day result crosses 950, preserve that exact candidate in one of the final two slots.
+- A historical fallback is not reliable enough for the final slot unless the previous slot already protects the visible score.
+
 ## 2026-05-08 Export
 
-The public leaderboard snapshot showed a score of 864.5 and rank 392 for the tracked team. The top 10 threshold was 1451.7.
+The public leaderboard snapshot showed a score of 864.5 and rank 433 for the tracked team. The top 10 threshold was 1451.7.
 
-The most important observation from the latest cycle is that direct public-code reruns and same-entry reruns remain highly volatile. A candidate can move by more than 100 public points after completion as more games are evaluated. The latest two active submissions also control the visible team score, so final slots need to preserve the best current-day result instead of spending the last slot on an unproven idea.
+The most important observation from this cycle was that direct public-code reruns and same-entry reruns remained highly volatile. A candidate can move by more than 100 public points after completion as more games are evaluated.
 
 ## 2026-05-07
 
@@ -36,7 +54,7 @@ Lessons:
 
 ## 2026-05-05
 
-Five submissions were used. The best observed score was 950.4, the strongest exported result in this log window.
+Five submissions were used. The best observed score was 950.4.
 
 Lessons:
 

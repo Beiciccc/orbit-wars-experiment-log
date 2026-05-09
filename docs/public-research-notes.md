@@ -2,7 +2,7 @@
 
 ## High-Value Public Data
 
-Kaggle staff began sharing top-percentile daily replay datasets for Orbit Wars. These datasets are the most useful public source for understanding strong openings, defense timing, and late-game ship movement patterns.
+Kaggle staff shared top-percentile daily replay datasets for Orbit Wars. These datasets are the most useful public source for understanding strong openings, defense timing, and late-game ship movement patterns.
 
 Near-term work should prioritize:
 
@@ -21,12 +21,13 @@ This means route legality should be validated against fresh public replays befor
 
 The most useful public-code ideas seen in the latest review were:
 
+- two-strategy combine entries can transfer well, but are volatile across reruns
 - better target inference from fleet origin metadata
 - simpler production-aware expansion scoring
 - threat maps that avoid over-defending safe planets
 - mission-style rescue and recapture logic
 
-Directly copying public entries did not perform well enough. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
+Directly copying public entries is not enough by itself. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
 
 ## Next Priority
 
