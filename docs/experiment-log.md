@@ -2,14 +2,14 @@
 
 ## 2026-05-09 Export
 
-Five submissions were used. The best individual score observed today was 1031.7, but the final visible score settled at 844.8 because only the latest two active submissions count for the visible team score.
+Five submissions were used. The best individual score observed today was 1031.7, but the final visible score settled at 908.4 because only the latest two active submissions count for the visible team score.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 918.7 | Strong public result after score drift. |
 | 2 | 829.7 | Moderate transfer. |
 | 3 | 1031.7 | Best individual result in this log window, not preserved in final active slots. |
-| 4 | 844.8 | Final active contributor. |
+| 4 | 908.4 | Final active contributor. |
 | 5 | 693.7 | Final-slot recovery attempt underperformed. |
 
 Lessons:
