@@ -22,6 +22,7 @@ This means route legality should be validated against fresh public replays befor
 The most useful public-code ideas seen in the latest review were:
 
 - two-strategy combine entries can transfer well, but are volatile across reruns
+- using fully visible opponent fleets for defense and target inference is now the clearest discussion-backed direction
 - better target inference from fleet origin metadata
 - simpler production-aware expansion scoring
 - threat maps that avoid over-defending safe planets
@@ -36,3 +37,5 @@ Build a small replay-mining dataset and use it to answer three questions:
 - Which openings consistently survive strong four-player maps?
 - Which defensive mistakes cause the largest public losses?
 - Which pathing choices create sun or boundary losses after the recent collision changes?
+
+The next implementation review should focus on whether visible opponent fleets can be converted into a reliable threat map without causing over-defense in four-player games.

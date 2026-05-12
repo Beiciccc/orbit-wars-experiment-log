@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-12 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 980.2 and rank 246. The top 10 threshold was 1435.5.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 675.2 | Historical high scorer did not recover. |
+| 2 | 566.9 | Public high-score reference did not transfer. |
+| 3 | 802.5 | Best exploratory result of the day. |
+| 4 | 980.2 | Best final active contributor after delayed stabilization. |
+| 5 | 743.6 | Final recovery attempt underperformed. |
+
+Lessons:
+
+- Historical peak scores and public high-score labels were weak predictors today.
+- The safest late-cycle move was still a known baseline rerun, but rerun variance remained large.
+- The next improvement path should use visible opponent movement data for threat detection and defense timing, then validate against replay-derived cases before another broad submission cycle.
+
 ## 2026-05-09 Export
 
 Five submissions were used. The best individual score observed today was 1031.7, but the final visible score settled at 908.4 because only the latest two active submissions count for the visible team score.
