@@ -2,20 +2,20 @@
 
 ## 2026-05-12 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 832.9 and rank 603. The top 10 threshold was 1441.1.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 915.3 and rank 395. The top 10 threshold was 1441.1.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 675.2 | Historical high scorer did not recover. |
 | 2 | 566.9 | Public high-score reference did not transfer. |
 | 3 | 802.5 | Best exploratory result of the day. |
-| 4 | 832.9 | Best final active contributor after delayed stabilization. |
-| 5 | 743.6 | Final recovery attempt underperformed. |
+| 4 | 915.3 | Best final active contributor after delayed stabilization. |
+| 5 | 842.2 | Final recovery attempt underperformed. |
 
 Lessons:
 
 - Historical peak scores and public high-score labels were weak predictors today.
-- The safest late-cycle move was still a known baseline rerun, but rerun variance remained large; this score briefly rose above 980 before settling lower.
+- The safest late-cycle move was still a known baseline rerun, but rerun variance remained large; the strongest score moved across a wide range before the latest stable check.
 - The next improvement path should use visible opponent movement data for threat detection and defense timing, then validate against replay-derived cases before another broad submission cycle.
 
 ## 2026-05-09 Export
