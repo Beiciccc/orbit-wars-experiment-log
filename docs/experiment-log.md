@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-13 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 700.4 and rank 1187. The top 10 threshold was 1430.3.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | ERROR | New learned-value reference failed in the evaluation runtime. |
+| 2 | 679.1 | Protective rerun underperformed. |
+| 3 | 1066.9 | Best individual result of the day, but not preserved in the final active window. |
+| 4 | 677.4 | Final-window protection failed. |
+| 5 | 700.4 | Final active contributor, but below the prior exported score. |
+
+Lessons:
+
+- A strong same-day result must be preserved inside the final active window; otherwise it does not help the visible score.
+- Multi-file learned-value entries need package compatibility checks before public submission.
+- The next substantive improvement should focus on visible opponent movement, threat detection, and defense timing rather than more direct public-code reruns.
+
 ## 2026-05-12 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 915.3 and rank 395. The top 10 threshold was 1441.1.

@@ -39,3 +39,9 @@ Build a small replay-mining dataset and use it to answer three questions:
 - Which pathing choices create sun or boundary losses after the recent collision changes?
 
 The next implementation review should focus on whether visible opponent fleets can be converted into a reliable threat map without causing over-defense in four-player games.
+
+## 2026-05-13 Public Review
+
+The newest high-interest public reference combined search with a learned value estimate. The main takeaway was not to submit this type of reference unless all required local assets are packaged and checked against the competition runtime.
+
+Public discussion still points toward visible opponent movement as the most actionable improvement path. The next useful implementation work is to convert that information into threat timing, likely targets, and defensive reserves without making the bot too passive.
