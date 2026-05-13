@@ -2,15 +2,15 @@
 
 ## 2026-05-13 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 788.5 and rank 786. The top 10 threshold was 1430.3.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 793.4 and rank 770. The top 10 threshold was 1430.3.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | ERROR | New learned-value reference failed in the evaluation runtime. |
 | 2 | 679.1 | Protective rerun underperformed. |
 | 3 | 1066.9 | Best individual result of the day, but not preserved in the final active window. |
-| 4 | 788.5 | Final active contributor, but below the prior exported score. |
-| 5 | 779.8 | Final-window recovery underperformed. |
+| 4 | 793.4 | Final active contributor, but below the prior exported score. |
+| 5 | 659.9 | Final-window recovery underperformed. |
 
 Lessons:
 
