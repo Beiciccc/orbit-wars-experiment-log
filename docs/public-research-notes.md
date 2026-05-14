@@ -45,3 +45,9 @@ The next implementation review should focus on whether visible opponent fleets c
 The newest high-interest public reference combined search with a learned value estimate. The main takeaway was not to submit this type of reference unless all required local assets are packaged and checked against the competition runtime.
 
 Public discussion still points toward visible opponent movement as the most actionable improvement path. The next useful implementation work is to convert that information into threat timing, likely targets, and defensive reserves without making the bot too passive.
+
+## 2026-05-14 Public Review
+
+No new same-day high-score public reference was found. A recent high-score reference from the public code section was reviewed and tried once, but the public result did not transfer.
+
+The useful research direction remains subsystem work: visible movement threat timing, better defense reserves, and replay-derived validation. Direct reruns are not closing the gap to the top 10.

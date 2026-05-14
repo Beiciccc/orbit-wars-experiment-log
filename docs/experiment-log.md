@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-14 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 851.9 and rank 591. The top 10 threshold was 1399.2.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 803.2 | Prior strong reference did not recover its earlier right-tail score. |
+| 2 | 728.3 | New public high-score reference did not transfer. |
+| 3 | 805.0 | Best non-final-window recovery attempt. |
+| 4 | 851.9 | Best final active contributor, but below the prior exported score. |
+| 5 | 833.1 | Final active contributor, below iteration 4. |
+
+Lessons:
+
+- Same-code reruns are not a complete recovery strategy; high right-tail results can be hard to reproduce.
+- When a mid-cycle recovery attempt beats the earlier probes, it should be considered for final-window preservation unless a stronger same-day candidate is available.
+- Public high-score references still need replay or broader validation before being trusted as direct submissions.
+
 ## 2026-05-13 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 927.6 and rank 392. The top 10 threshold was 1430.3.
