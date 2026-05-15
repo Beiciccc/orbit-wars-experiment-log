@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-15 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 825.6 and rank 705. The top 10 threshold was 1420.9.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 584.1 | New exposed-planet public reference did not transfer. |
+| 2 | 863.3 | Best individual result of the day, but not preserved in the final active window. |
+| 3 | 679.3 | Recovery attempt underperformed. |
+| 4 | 780.3 | Final-window recovery remained below the start line. |
+| 5 | 825.6 | Final active contributor, below the prior exported score. |
+
+Lessons:
+
+- A validated multi-file value package can still underperform; packaging correctness is only a gate, not evidence of leaderboard transfer.
+- If an exploratory entry is the best same-day score, it should be preserved in the final active window unless a later recovery attempt clearly beats it.
+- Historical rerun peaks are not enough for final-slot decisions; final slots need same-day evidence.
+
 ## 2026-05-14 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 851.9 and rank 591. The top 10 threshold was 1399.2.

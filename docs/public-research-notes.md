@@ -51,3 +51,9 @@ Public discussion still points toward visible opponent movement as the most acti
 No new same-day high-score public reference was found. A recent high-score reference from the public code section was reviewed and tried once, but the public result did not transfer.
 
 The useful research direction remains subsystem work: visible movement threat timing, better defense reserves, and replay-derived validation. Direct reruns are not closing the gap to the top 10.
+
+## 2026-05-15 Public Review
+
+The newest public references added two useful research paths: value-search packaging and exposed-target logic. The value-search package was validated with its required value data file, but the public result still landed below the starting score. The exposed-target reference also did not transfer.
+
+The main lesson is operational: preserve the best same-day score in the final active window. Mechanism-level work remains more promising than direct public-code reruns, especially visible fleet threat timing, target travel-time scoring, and robust per-game state reset handling.
