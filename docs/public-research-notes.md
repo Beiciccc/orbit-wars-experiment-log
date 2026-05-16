@@ -57,3 +57,9 @@ The useful research direction remains subsystem work: visible movement threat ti
 The newest public references added two useful research paths: value-search packaging and exposed-target logic. The value-search package was validated with its required value data file, but the public result still landed below the starting score. The exposed-target reference also did not transfer.
 
 The main lesson is operational: preserve the best same-day score in the final active window. Mechanism-level work remains more promising than direct public-code reruns, especially visible fleet threat timing, target travel-time scoring, and robust per-game state reset handling.
+
+## 2026-05-16 Public Review
+
+Several new public references appeared, but none had enough evidence for direct submission. The most defensible public candidate was reviewed as a donor/reference only after local checks failed to show a clear advantage.
+
+The useful direction remains targeted mechanism work rather than direct public-code reruns: visible fleet threat maps, travel-time target scoring, and stricter final-window preservation rules.

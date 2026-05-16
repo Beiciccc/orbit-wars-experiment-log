@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-16 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 751.0 and rank 1031. The top 10 threshold was 1417.9.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 758.0 | Known recovery reference started below the prior score line. |
+| 2 | 795.7 | Distinct recovery reference became the early leader. |
+| 3 | 847.1 | Best same-day individual result, but not preserved in the final active window. |
+| 4 | 751.0 | Final-window preservation attempt underperformed. |
+| 5 | 716.7 | Final active contributor, below the best same-day result. |
+
+Lessons:
+
+- The final active window must preserve the current same-day score leader, not the historically safest family.
+- Once a candidate crosses the preservation threshold, wait for one more poll before spending the next slot.
+- Public-code freshness alone was not useful today; local checks and same-day public score remain stronger signals.
+
 ## 2026-05-15 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 825.6 and rank 705. The top 10 threshold was 1420.9.
