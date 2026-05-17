@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-17 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 835.1 and rank 688. The top 10 threshold was 1435.9.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 939.5 | Best individual result of the day, from a known reference rerun. |
+| 2 | 599.5 | Distinct hybrid reference did not transfer today. |
+| 3 | 772.5 | Value-search reference improved after delayed scoring, but stayed below the preservation threshold. |
+| 4 | 718.4 | First preservation rerun underperformed. |
+| 5 | 835.1 | Final active contributor, below the strongest same-day result. |
+
+Lessons:
+
+- Same-reference reruns remain useful but very volatile; the best individual result did not reproduce in the final active slot.
+- Public-code freshness was not enough for direct use today. New material was better treated as donor/reference material.
+- Final-slot protection should still preserve the same-day leader, but high-variance reruns need longer stabilization before spending both final slots.
+
 ## 2026-05-16 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 751.0 and rank 1031. The top 10 threshold was 1417.9.

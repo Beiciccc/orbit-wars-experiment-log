@@ -30,6 +30,14 @@ The most useful public-code ideas seen in the latest review were:
 
 Directly copying public entries is not enough by itself. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
 
+## 2026-05-17 Public Review
+
+The newest public-code refresh produced no direct-use candidate. One new multi-policy notebook was useful as a simple design reference, but it was not submission-shaped as published and used several physics shortcuts that make direct transfer risky.
+
+Another recently rerun public reference had clean parsing and fleet-intent ideas, but local mixed-anchor checks were weak. It remains useful only as donor material for movement parsing, emergency reinforcement, and rough fleet intent.
+
+The practical direction is unchanged: build a small validation set from public replays, then test one subsystem at a time. The highest-value subsystem remains visible-fleet threat timing: infer likely targets, reserve only when arrival timing requires it, and avoid making four-player openings too passive.
+
 ## Next Priority
 
 Build a small replay-mining dataset and use it to answer three questions:
