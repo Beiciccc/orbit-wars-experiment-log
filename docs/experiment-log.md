@@ -9,7 +9,7 @@ Five submissions were used. The final exported leaderboard snapshot showed a pub
 | 1 | 939.5 | Best individual result of the day, from a known reference rerun. |
 | 2 | 599.5 | Distinct hybrid reference did not transfer today. |
 | 3 | 772.5 | Value-search reference improved after delayed scoring, but stayed below the preservation threshold. |
-| 4 | 718.4 | First preservation rerun underperformed. |
+| 4 | 775.9 | First preservation rerun underperformed. |
 | 5 | 835.1 | Final active contributor, below the strongest same-day result. |
 
 Lessons:
