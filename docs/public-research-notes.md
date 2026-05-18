@@ -38,6 +38,14 @@ Another recently rerun public reference had clean parsing and fleet-intent ideas
 
 The practical direction is unchanged: build a small validation set from public replays, then test one subsystem at a time. The highest-value subsystem remains visible-fleet threat timing: infer likely targets, reserve only when arrival timing requires it, and avoid making four-player openings too passive.
 
+## 2026-05-18 Public Review
+
+The public-code refresh was partially blocked by API rate limiting, so no verified new Kaggle notebook was promoted for direct use. Discussion updates reinforced the same engineering themes: runtime uncertainty, environment parity, fast local rollout infrastructure, present-value target scoring, and replay-driven loss review.
+
+An external public reference with broader strategy claims compiled locally, but a small mixed-anchor check was weak and slow. It remains donor material only, mainly for parsing, influence scoring, and target-timing ideas.
+
+The immediate improvement priority is final-window selection discipline: preserve a stable distinct result when it is close to a volatile leader, instead of using both final slots on the same high-variance reference.
+
 ## Next Priority
 
 Build a small replay-mining dataset and use it to answer three questions:

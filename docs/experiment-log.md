@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-18 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 793.3 and rank 869. The top 10 threshold was 1423.7.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 843.5 | Best individual result of the day, but outside the final active window. |
+| 2 | 805.2 | Best distinct reference result and the more stable active-window candidate. |
+| 3 | 657.0 | Recovery rerun underperformed. |
+| 4 | 716.3 | Final-window recovery remained below the distinct reference. |
+| 5 | 793.3 | Final active contributor, below the best same-day results. |
+
+Lessons:
+
+- When a distinct candidate is above 800 and close to a volatile leader, preserve one final slot for that distinct candidate.
+- Repeating the same high-variance reference in both final slots can erase the best same-day score.
+- Public discussion and code refresh did not produce a direct-use candidate; replay-derived validation and better final-window selection remain the highest-value work.
+
 ## 2026-05-17 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 835.1 and rank 688. The top 10 threshold was 1435.9.
