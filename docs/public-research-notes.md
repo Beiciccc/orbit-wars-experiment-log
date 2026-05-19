@@ -46,6 +46,12 @@ An external public reference with broader strategy claims compiled locally, but 
 
 The immediate improvement priority is final-window selection discipline: preserve a stable distinct result when it is close to a volatile leader, instead of using both final slots on the same high-variance reference.
 
+## 2026-05-19 Public Review
+
+The newest public-code refresh surfaced validator and top-k selection ideas, a PPO-style reference, and several robust rule references. Local anchor checks did not provide enough evidence for a direct submission from these sources.
+
+The useful takeaways are implementation-level rather than package-level: better timeout hygiene, stronger validation before final selection, and threat-timing ideas from visible movement. The next practical step is to convert these into a small replay-derived validation set before spending more public leaderboard slots.
+
 ## Next Priority
 
 Build a small replay-mining dataset and use it to answer three questions:

@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-19 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 741.3 and rank 1126. The top 10 threshold was 1431.6.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 872.8 | Best individual same-day result, but outside the final exported active result. |
+| 2 | 642.5 | Distinct stability probe did not transfer strongly today. |
+| 3 | 818.8 | Preservation rerun recovered into the useful range. |
+| 4 | 601.3 | Final-window preservation attempt underperformed. |
+| 5 | 741.3 | Final exported result, below the best same-day score. |
+
+Lessons:
+
+- Same-reference reruns can move by hundreds of points after completion, so final-window decisions need an extra stabilization gate.
+- Do not spend both final slots on one volatile reference unless a final-window run has already stabilized above the preservation threshold.
+- Recent public code was useful as reference material, but not as a direct submission candidate today.
+
 ## 2026-05-18 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 793.3 and rank 869. The top 10 threshold was 1423.7.
