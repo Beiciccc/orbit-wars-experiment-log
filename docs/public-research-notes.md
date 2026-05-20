@@ -52,6 +52,12 @@ The newest public-code refresh surfaced validator and top-k selection ideas, a P
 
 The useful takeaways are implementation-level rather than package-level: better timeout hygiene, stronger validation before final selection, and threat-timing ideas from visible movement. The next practical step is to convert these into a small replay-derived validation set before spending more public leaderboard slots.
 
+## 2026-05-20 Public Review
+
+The latest public refresh added replay-fetching material, physics helper code, several small heuristic references, and updated robust-rule references. None had enough evidence for direct submission.
+
+The best public-source direction is now validation infrastructure: combine the official daily episode index, top replay cache, and a fixed seed panel to evaluate openings, threat timing, and final-window package choices before using leaderboard quota.
+
 ## Next Priority
 
 Build a small replay-mining dataset and use it to answer three questions:

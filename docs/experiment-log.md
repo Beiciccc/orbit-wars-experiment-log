@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-20 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 675.1 and rank 1477. The top 10 threshold was 1443.2.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 752.3 | Best same-day individual result, still below the starting score. |
+| 2 | 659.0 | Distinct recovery probe did not transfer. |
+| 3 | 633.1 | Recovery rerun remained weak. |
+| 4 | 675.1 | Final-window contributor after drifting down from a transient higher value. |
+| 5 | 653.2 | Final-window contributor, below the same-day leader. |
+
+Lessons:
+
+- A poor first-three sequence should trigger a distinct-package final slot instead of repeating one volatile reference in both final slots.
+- Transient score drift above 800 is not enough evidence when the same row has moved by more than 100 points.
+- Public updates today were more useful for replay mining and validation infrastructure than direct submissions.
+
 ## 2026-05-19 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 741.3 and rank 1126. The top 10 threshold was 1431.6.
