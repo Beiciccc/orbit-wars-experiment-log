@@ -2,20 +2,20 @@
 
 ## 2026-05-20 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 675.1 and rank 1477. The top 10 threshold was 1443.2.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 910.7 and rank 448. The top 10 threshold was 1442.7.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 752.3 | Best same-day individual result, still below the starting score. |
 | 2 | 659.0 | Distinct recovery probe did not transfer. |
 | 3 | 633.1 | Recovery rerun remained weak. |
-| 4 | 675.1 | Final-window contributor after drifting down from a transient higher value. |
-| 5 | 653.2 | Final-window contributor, below the same-day leader. |
+| 4 | 836.9 | Final-window support result after delayed drift. |
+| 5 | 910.7 | Final exported contributor and best same-day result. |
 
 Lessons:
 
-- A poor first-three sequence should trigger a distinct-package final slot instead of repeating one volatile reference in both final slots.
-- Transient score drift above 800 is not enough evidence when the same row has moved by more than 100 points.
+- A poor first-three sequence can still recover through a volatile reference, but final reporting needs a later fresh snapshot because scores can move substantially after the normal stabilization window.
+- The final active result improved after delayed drift, so the immediate post-complete score alone would have understated the loop outcome.
 - Public updates today were more useful for replay mining and validation infrastructure than direct submissions.
 
 ## 2026-05-19 Export
