@@ -30,6 +30,12 @@ The most useful public-code ideas seen in the latest review were:
 
 Directly copying public entries is not enough by itself. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
 
+## 2026-05-21 Public Review
+
+The latest public-code refresh did not produce a direct-use candidate. Recently updated robust-rule material remains useful for parsing, fallback behavior, and timeout hygiene, but it still needs a small local transfer check before spending leaderboard quota.
+
+The replay notebooks and top-result review tools are more valuable as data sources than as entries. The next practical step is to extract a compact validation panel from public replays, then test whether stronger threat timing and final-window selection rules improve the most common failure cases.
+
 ## 2026-05-17 Public Review
 
 The newest public-code refresh produced no direct-use candidate. One new multi-policy notebook was useful as a simple design reference, but it was not submission-shaped as published and used several physics shortcuts that make direct transfer risky.

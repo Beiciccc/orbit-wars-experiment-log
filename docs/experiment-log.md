@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-21 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 856.6 and rank 656. The top 10 threshold was 1458.3.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 936.1 | Best individual same-day result, but outside the final active window. |
+| 2 | 644.6 | Distinct public-code reference did not transfer. |
+| 3 | 693.1 | Second distinct reference remained weak. |
+| 4 | 806.7 | Final-window support result after delayed drift. |
+| 5 | 856.6 | Final exported contributor, below the starting score and the best same-day result. |
+
+Lessons:
+
+- A strong first result above 930 was not enough when the final active window used weaker reruns.
+- The final two entries drifted upward by more than 200 points after initial completion, so delayed scoring remains material.
+- Recent public material was more useful for replay mining and validation than direct submission.
+
 ## 2026-05-20 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 942.7 and rank 341. The top 10 threshold was 1442.7.
