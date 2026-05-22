@@ -30,6 +30,12 @@ The most useful public-code ideas seen in the latest review were:
 
 Directly copying public entries is not enough by itself. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
 
+## 2026-05-22 Public Review
+
+The latest public refresh added charting and tooling notebooks, a high-claim target-score notebook, and more replay-analysis resources. None were strong direct submission candidates after inspection and small local checks.
+
+The most useful public direction is validation infrastructure: a fixed 128-seed / 32-archetype panel, daily episode replay mining, and faster replay feature extraction. The next submission cycle should use these tools to avoid displacing a moderate same-day result with repeated low-scoring reruns.
+
 ## 2026-05-21 Public Review
 
 The latest public-code refresh did not produce a direct-use candidate. Recently updated robust-rule material remains useful for parsing, fallback behavior, and timeout hygiene, but it still needs a small local transfer check before spending leaderboard quota.

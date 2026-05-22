@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-22 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 584.3 and rank 1893. The top 10 threshold was 1492.6.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 526.0 | Known high-variance reference failed today. |
+| 2 | 718.1 | Distinct reference improved after delayed scoring but stayed below the start line. |
+| 3 | 807.4 | Best same-day result, but outside the final active window. |
+| 4 | 584.3 | Final-window recovery attempt failed. |
+| 5 | 527.4 | Final exported companion result, also failed. |
+
+Lessons:
+
+- Once the same high-variance reference has two same-day failures below 650, it should not take both final slots.
+- If the best same-day score is only around 800, preserving it can still be better than pursuing a low-probability final-window recovery.
+- New public code and discussion updates were useful for validation planning, not direct submission.
+
 ## 2026-05-21 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 963.6 and rank 275. The top 10 threshold was 1456.1.
