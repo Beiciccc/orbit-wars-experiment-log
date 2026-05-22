@@ -2,15 +2,15 @@
 
 ## 2026-05-22 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 584.3 and rank 1893. The top 10 threshold was 1492.6.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 657.2 and rank 1601. The top 10 threshold was 1494.2.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 526.0 | Known high-variance reference failed today. |
 | 2 | 718.1 | Distinct reference improved after delayed scoring but stayed below the start line. |
 | 3 | 807.4 | Best same-day result, but outside the final active window. |
-| 4 | 584.3 | Final-window recovery attempt failed. |
-| 5 | 527.4 | Final exported companion result, also failed. |
+| 4 | 657.2 | Final-window recovery attempt failed after limited late drift. |
+| 5 | 619.4 | Final exported companion result, also failed. |
 
 Lessons:
 
