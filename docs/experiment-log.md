@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-23 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 907.5 and rank 462. The top 10 threshold was 1501.6.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 698.6 | Known high-variance reference underperformed. |
+| 2 | 685.2 | Same reference remained weak. |
+| 3 | 883.5 | Best same-family result, but outside the final active window. |
+| 4 | 907.5 | Final-window damage-control entry and exported contributor. |
+| 5 | 647.5 | Final preservation attempt failed. |
+
+Lessons:
+
+- A distinct damage-control entry can be the best final-window protection when repeated high-variance reruns underperform.
+- If a damage-control entry drifts above 850, preserve that family in the final slot unless a stronger final-window result is already active.
+- New public-code forks need bounded validation before use; slow local screening is itself a runtime-risk signal.
+
 ## 2026-05-22 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 657.2 and rank 1601. The top 10 threshold was 1494.2.

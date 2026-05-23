@@ -30,6 +30,12 @@ The most useful public-code ideas seen in the latest review were:
 
 Directly copying public entries is not enough by itself. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
 
+## 2026-05-23 Public Review
+
+The latest public refresh surfaced several new notebooks, including a high-score fork claim, visual baseline material, helper functions, and simpler heuristic references. None had enough validation for direct use today.
+
+The useful direction remains evaluation infrastructure: bounded mixed-anchor screening, a fixed archetype panel, and replay mining from the daily episode shards. Public-code title claims should not override runtime checks or current same-day score evidence.
+
 ## 2026-05-22 Public Review
 
 The latest public refresh added charting and tooling notebooks, a high-claim target-score notebook, and more replay-analysis resources. None were strong direct submission candidates after inspection and small local checks.
