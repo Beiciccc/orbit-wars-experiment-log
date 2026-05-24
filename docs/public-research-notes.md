@@ -33,7 +33,7 @@ Directly copying public entries is not enough by itself. The next useful step is
 
 ## 2026-05-24 Public Review
 
-The latest public refresh found one useful new public-code reference centered on launch safety. It became the best individual same-day result after delayed scoring, and the final rerun recovered after delayed scoring, though it stayed below the exported contributor. Other newly reviewed public material was kept as reference-only after weak local checks.
+The latest public refresh found one useful new public-code reference centered on launch safety. It became the best individual same-day result after delayed scoring, and the final rerun recovered only partially after delayed scoring, staying below the exported contributor. Other newly reviewed public material was kept as reference-only after weak local checks.
 
 The official 2026-05-23 episode shard and updated episode index are the highest-value new public data. The next useful step is to build replay-derived validation around four-player openings, defensive timing, and sun or boundary losses before spending more public leaderboard quota.
 

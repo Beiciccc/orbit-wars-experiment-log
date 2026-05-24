@@ -2,15 +2,15 @@
 
 ## 2026-05-24 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 877.4 and rank 589. The top 10 threshold was 1514.9.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 811.1 and rank 858. The top 10 threshold was 1504.6.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 624.4 | Known high-variance reference underperformed. |
 | 2 | 801.0 | New public-code reference became the best individual same-day result after delayed scoring. |
 | 3 | 800.7 | Damage-control reference recovered after delayed scoring but was not preserved in the final active window. |
-| 4 | 877.4 | Final-window recovery became the exported contributor after late drift. |
-| 5 | 794.1 | Final companion entry recovered after late drift but stayed below the exported contributor. |
+| 4 | 811.1 | Final-window recovery became the exported contributor after stabilization. |
+| 5 | 744.0 | Final companion entry recovered after late drift but stayed below the exported contributor. |
 
 Lessons:
 
