@@ -2,20 +2,20 @@
 
 ## 2026-05-24 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 757.1 and rank 1095. The top 10 threshold was 1501.4.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 877.4 and rank 589. The top 10 threshold was 1514.9.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 624.4 | Known high-variance reference underperformed. |
 | 2 | 801.0 | New public-code reference became the best individual same-day result after delayed scoring. |
 | 3 | 800.7 | Damage-control reference recovered after delayed scoring but was not preserved in the final active window. |
-| 4 | 757.1 | Final-window recovery became the exported contributor. |
-| 5 | 600.0 | Final preservation attempt failed to reproduce the earlier public-code score. |
+| 4 | 877.4 | Final-window recovery became the exported contributor after late drift. |
+| 5 | 794.1 | Final companion entry recovered after late drift but stayed below the exported contributor. |
 
 Lessons:
 
 - Preserve a completed same-day score above 800 in the final active window instead of relying on a fresh rerun of the same family.
-- Delayed public scoring remains material; both the public-code reference and damage-control reference moved by more than 200 points after initial completion.
+- Delayed public scoring remains material; multiple entries moved by more than 190 points after initial completion.
 - Public-code title claims can identify candidates to test, but final-slot decisions need current active-window evidence.
 
 ## 2026-05-23 Export

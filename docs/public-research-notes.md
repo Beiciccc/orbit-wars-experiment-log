@@ -33,11 +33,11 @@ Directly copying public entries is not enough by itself. The next useful step is
 
 ## 2026-05-24 Public Review
 
-The latest public refresh found one useful new public-code reference centered on launch safety. It became the best individual same-day result after delayed scoring, but the final rerun did not reproduce that score. Other newly reviewed public material was kept as reference-only after weak local checks.
+The latest public refresh found one useful new public-code reference centered on launch safety. It became the best individual same-day result after delayed scoring, and the final rerun recovered after delayed scoring, though it stayed below the exported contributor. Other newly reviewed public material was kept as reference-only after weak local checks.
 
 The official 2026-05-23 episode shard and updated episode index are the highest-value new public data. The next useful step is to build replay-derived validation around four-player openings, defensive timing, and sun or boundary losses before spending more public leaderboard quota.
 
-Operationally, the main lesson is final-window preservation: once a completed same-day result drifts above 800, keep it active rather than replacing it with a fresh unproven rerun.
+Operationally, the main lesson is final-window preservation: active-window choices need an extra delayed-score check before the last slot, because final-window scores can move materially after initial completion.
 
 ## 2026-05-23 Public Review
 
