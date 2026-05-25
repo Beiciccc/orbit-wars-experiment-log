@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-25 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 891.5 and rank 547. The top 10 threshold was 1491.3.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 676.2 | Known high-variance reference underperformed. |
+| 2 | 598.5 | Damage-control reference failed to establish a floor. |
+| 3 | 822.1 | Same high-variance family recovered but was outside the final active window. |
+| 4 | 891.5 | Verified public baseline recovered after delayed scoring and became the exported contributor. |
+| 5 | 675.9 | Final companion entry stayed weak. |
+
+Lessons:
+
+- A verified public baseline can be the best recovery path when familiar references start weak.
+- Do not treat the damage-control family as automatic final protection unless it has already shown a current-day score above the preservation threshold.
+- Runtime-stalled public candidates should remain reference material until a bounded validation run completes.
+
 ## 2026-05-24 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 811.1 and rank 858. The top 10 threshold was 1504.6.

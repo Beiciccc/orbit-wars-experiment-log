@@ -31,6 +31,15 @@ The most useful public-code ideas seen in the latest review were:
 Directly copying public entries is not enough by itself. The next useful step is subsystem-level ablation: isolate one idea, test it against replay-derived cases, then submit only if the change improves those cases without hurting common openings.
 
 
+
+## 2026-05-25 Public Review
+
+The latest public refresh found two new direct-submission-shaped references and one small strategy reference. The strongest new candidate had an `800+` title and compiled cleanly, but mixed local screening stalled before producing a usable result. It was kept as reference material rather than using public quota.
+
+The official 2026-05-24 episode shard and index update are the best new public data source. The next useful work is a timeout-safe validation panel and replay review of why the usual damage-control reference underperformed today.
+
+The verified launch-safety public baseline remained useful and recovered the final active score after delayed scoring.
+
 ## 2026-05-24 Public Review
 
 The latest public refresh found one useful new public-code reference centered on launch safety. It became the best individual same-day result after delayed scoring, and the final rerun recovered only partially after delayed scoring, staying below the exported contributor. Other newly reviewed public material was kept as reference-only after weak local checks.
