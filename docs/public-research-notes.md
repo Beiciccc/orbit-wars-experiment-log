@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-05-26 Public Review
+
+The latest public refresh found an updated complex heuristic reference, a language-interface example, a demo reference, and two recently reviewed strategy references. The complex heuristic remains worth bounded validation, but prior transfer history does not justify direct leaderboard use without a stronger local panel.
+
+A small four-player gate completed for two established references and two newer public references. The high-variance established reference won the gate, while the newer references did not earn a submission slot.
+
+The most important public-rule signal remained unchanged: only the latest two active entries determine the visible score. Today's result reinforces that final-window selection should wait for delayed scoring when an early low completion is still plausibly drifting upward.
+
 ## High-Value Public Data
 
 Kaggle staff shared top-percentile daily replay datasets for Orbit Wars. These datasets are the most useful public source for understanding strong openings, defense timing, and late-game ship movement patterns.

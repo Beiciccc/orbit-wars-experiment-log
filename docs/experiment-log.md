@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-26 Export
+
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 799.7 and rank 982. The top 10 threshold was 1469.0.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 793.7 | Verified public baseline recovered after delayed scoring but was displaced from the final active window. |
+| 2 | 824.0 | Known high-variance reference recovered after delayed scoring but was displaced later. |
+| 3 | 876.7 | Best same-day result, but outside the final active window. |
+| 4 | 653.2 | Final-window support entry stayed weak. |
+| 5 | 799.7 | Final exported contributor after late drift, still below the best same-day result. |
+
+Lessons:
+
+- Low initial completions can be misleading; two references recovered by more than 200 points after additional polling.
+- A same-day result drifting above 800 should be preserved in the final active window instead of being displaced by a historical fallback.
+- Public refresh produced useful references and data sources, but no new direct-use candidate beat the validated references in bounded screening.
+
 ## 2026-05-25 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 895.8 and rank 535. The top 10 threshold was 1485.3.
