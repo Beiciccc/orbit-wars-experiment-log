@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-05-27 Public Review
+
+The latest public refresh found two new baseline-shaped references, a refreshed robust reference, and several still-relevant strategy references. A small four-player gate did not justify using any new public reference for direct leaderboard submissions.
+
+No new rule change was found in public discussion. The latest-two active-entry rule remained the dominant operational constraint, and the final exported result again depended on delayed scoring inside that active window.
+
+The latest official daily episode data available during the run was still the 2026-05-25 shard. Public replay parquet data remains useful for analysis but should be checked for row and episode consistency before use.
+
 ## 2026-05-26 Public Review
 
 The latest public refresh found an updated complex heuristic reference, a language-interface example, a demo reference, and two recently reviewed strategy references. The complex heuristic remains worth bounded validation, but prior transfer history does not justify direct leaderboard use without a stronger local panel.
