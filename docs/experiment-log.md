@@ -2,20 +2,20 @@
 
 ## 2026-05-27 Export
 
-Five submissions were used. The final exported leaderboard snapshot showed a public score of 983.1 and rank 286. The top 10 threshold was 1508.2.
+Five submissions were used. The final exported leaderboard snapshot showed a public score of 953.8 and rank 370. The top 10 threshold was 1508.2.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 768.6 | Historical high-reference entry recovered modestly after delayed scoring. |
 | 2 | 857.3 | Verified public baseline recovered but was outside the final active window. |
 | 3 | 750.7 | Second high-reference run recovered modestly. |
-| 4 | 983.1 | Final-window companion recovered strongly and became the exported contributor. |
+| 4 | 953.8 | Final-window companion recovered strongly and became the exported contributor. |
 | 5 | 859.9 | Required historical best reference recovered after delayed scoring. |
 
 Lessons:
 
 - A pre-committed final entry makes the fourth slot decisive; it should be the strongest distinct family with recent drift evidence.
-- Low initial completions still require extended polling. The fourth entry moved from 600.0 to 983.1.
+- Low initial completions still require extended polling. The fourth entry moved from 600.0 to 953.8 in the latest exported snapshot.
 - New public references remained validation-only after bounded screening.
 
 ## 2026-05-26 Export
