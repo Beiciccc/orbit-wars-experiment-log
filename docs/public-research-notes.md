@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-05-29 Public Review
+
+The latest public refresh found no same-day high-score public code suitable for direct use. The freshest direct-shaped reference compiled and entered a bounded four-player check, but it did not beat the verified references. A larger hybrid reference appeared to require an unpublished local asset, so it stayed research-only.
+
+No new scoring rule change was found in public discussion. Runtime variance, fast local evaluation, replay tooling, and the latest-two active-entry constraint remain the main operational themes.
+
+The most useful next direction is final-window selection from replay and score-drift evidence. Public-code reruns are not enough unless the candidate first passes a timeout-safe validation panel.
+
 ## 2026-05-27 Public Review
 
 The latest public refresh found two new baseline-shaped references, a refreshed robust reference, and several still-relevant strategy references. A small four-player gate did not justify using any new public reference for direct leaderboard submissions.

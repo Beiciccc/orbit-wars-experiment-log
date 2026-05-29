@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-29 Export
+
+Five entries were used. The final exported leaderboard snapshot showed a public score of 758.2 and rank 1239. The top 10 threshold was 1536.8.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 893.1 | Verified public baseline was the best same-day individual result but was displaced from the final active window. |
+| 2 | 714.3 | Historical high-reference entry stayed below the preservation threshold. |
+| 3 | 774.1 | Second verified-baseline run recovered modestly but was also displaced. |
+| 4 | 758.2 | Final-window preservation entry briefly drifted higher, then settled as the exported contributor. |
+| 5 | 641.7 | Final companion reference did not provide protection after delayed scoring. |
+
+Lessons:
+
+- The strongest same-day result must remain in the final active window when later results are materially weaker.
+- A temporary late score spike is not enough for final protection unless it holds across repeated fresh checks.
+- Historical strength alone should not justify a final companion entry without same-day evidence above the damage-control threshold.
+
 ## 2026-05-27 Export
 
 Five submissions were used. The final exported leaderboard snapshot showed a public score of 953.8 and rank 370. The top 10 threshold was 1508.2.
