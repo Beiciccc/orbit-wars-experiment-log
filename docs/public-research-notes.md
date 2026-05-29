@@ -8,6 +8,8 @@ No new scoring rule change was found in public discussion. Runtime variance, fas
 
 The most useful next direction is final-window selection from replay and score-drift evidence. Public-code reruns are not enough unless the candidate first passes a timeout-safe validation panel.
 
+The later recovery entries reinforced this: the useful move was not a new public-code candidate, but putting the strongest same-day validated family back into the active window.
+
 ## 2026-05-27 Public Review
 
 The latest public refresh found two new baseline-shaped references, a refreshed robust reference, and several still-relevant strategy references. A small four-player gate did not justify using any new public reference for direct leaderboard submissions.

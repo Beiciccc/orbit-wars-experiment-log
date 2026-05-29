@@ -1,5 +1,21 @@
 # Experiment Log
 
+## 2026-05-29 Recovery Export
+
+Three additional accepted entries were used after the earlier five-entry loop. The final exported leaderboard snapshot showed a public score of 991.8 and rank 255. The top 10 threshold was 1550.2.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 827.4 | Same-family recovery probe restored a moderate floor. |
+| 2 | 991.8 | Final-window recovery became the exported contributor. |
+| 3 | 916.2 | Final companion stayed useful and kept the active window in the same validated family. |
+
+Lessons:
+
+- When the strongest same-day family has already shown a clear lead, repeating it in the active window can recover a failed final state.
+- Family diversity is less important than preserving a demonstrated current-day scorer when the companion family has weak same-day evidence.
+- Fresh leaderboard exports are necessary after recovery runs because public scores continue to drift after completion.
+
 ## 2026-05-29 Export
 
 Five entries were used. The final exported leaderboard snapshot showed a public score of 758.2 and rank 1239. The top 10 threshold was 1536.8.
