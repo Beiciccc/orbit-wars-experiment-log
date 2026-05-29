@@ -2,12 +2,12 @@
 
 ## 2026-05-29 Recovery Export
 
-Three additional accepted entries were used after the earlier five-entry loop. The final exported leaderboard snapshot showed a public score of 991.8 and rank 255. The top 10 threshold was 1550.2.
+Three additional accepted entries were used after the earlier five-entry loop. The final exported leaderboard snapshot showed a public score of 976.7 and rank 296. The top 10 threshold was 1547.7.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 827.4 | Same-family recovery probe restored a moderate floor. |
-| 2 | 991.8 | Final-window recovery became the exported contributor. |
+| 2 | 976.7 | Final-window recovery became the exported contributor. |
 | 3 | 916.2 | Final companion stayed useful and kept the active window in the same validated family. |
 
 Lessons:
