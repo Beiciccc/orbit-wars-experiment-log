@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-05-31 Public Review
+
+The latest public refresh found several high-title references from 2026-05-29 and 2026-05-30, including public claims around the 960-1093 range. Local checks did not identify a stable replacement for the verified baseline, and the two public-code entries used in the loop did not reach the starting score.
+
+New official episode shards for 2026-05-29 and 2026-05-30 are now available. These are the most useful next data source for replay-derived validation and final-window selection.
+
+The key operational lesson is preservation: the best same-day result must remain in the latest active window unless a newer result has already beaten it.
+
 ## 2026-05-29 Public Review
 
 The latest public refresh found no same-day high-score public code suitable for direct use. The freshest direct-shaped reference compiled and entered a bounded four-player check, but it did not beat the verified references. A larger hybrid reference appeared to require an unpublished local asset, so it stayed research-only.

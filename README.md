@@ -14,10 +14,10 @@ It does not include implementation code, private configuration, infrastructure d
 
 ## Current Snapshot
 
-- Latest exported snapshot: 2026-05-29
-- Current public score in the exported leaderboard snapshot: 976.7
-- Current public rank in the exported leaderboard snapshot: 255
-- Top 10 public score threshold in the exported leaderboard snapshot: 1547.7
+- Latest exported snapshot: 2026-05-31
+- Current public score in the exported leaderboard snapshot: 815.2
+- Current public rank in the exported leaderboard snapshot: 1035
+- Top 10 public score threshold in the exported leaderboard snapshot: 1520.9
 
 ## Files
 

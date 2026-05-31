@@ -1,5 +1,23 @@
 # Experiment Log
 
+## 2026-05-31 Export
+
+Five entries were used. The final exported leaderboard snapshot showed a public score of 815.2 and rank 1035. The top 10 threshold was 1520.9.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 710.6 | New public-code reference did not transfer. |
+| 2 | 822.8 | New public-code reference showed moderate transfer but was displaced from the final active window. |
+| 3 | 899.1 | Verified baseline became the best same-day result but was displaced. |
+| 4 | 758.0 | Final-window recovery repeat did not reproduce the prior run. |
+| 5 | 815.2 | Final companion recovered partially but remained below the start line. |
+
+Lessons:
+
+- A same-day result near 900 must be preserved in the latest active window unless a later result is already higher.
+- Public-code title claims did not transfer reliably; they need stronger validation before final-window use.
+- Final-window choices should preserve the current-day leader before attempting another family rerun.
+
 ## 2026-05-29 Recovery Export
 
 Three additional accepted entries were used after the earlier five-entry loop. The final exported leaderboard snapshot showed a public score of 976.7 and rank 296. The top 10 threshold was 1547.7.
