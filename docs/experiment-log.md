@@ -340,6 +340,26 @@ Lessons:
 - The safest late-cycle move was still a known baseline rerun, but rerun variance remained large; the strongest score moved across a wide range before the latest stable check.
 - The next improvement path should use visible opponent movement data for threat detection and defense timing, then validate against replay-derived cases before another broad submission cycle.
 
+## 2026-06-01 Export
+
+Five submissions were used. The exported leaderboard snapshot shows a visible score of 904.1 and rank 693. The top 10 threshold was 1506.1.
+
+The day started from a stronger visible line near 1049.5 after delayed score movement from the previous cycle. The new cycle did not preserve that line, but it identified one repeatable public reference family that recovered from low first scores into the 900 range.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 888.2 | Started low, then rose materially after delayed scoring. |
+| 2 | 640.7 | Did not reproduce the prior high score. |
+| 3 | 825.3 | Moderate recovery, below the prior visible line. |
+| 4 | 904.1 | Best final-window result and exported visible score. |
+| 5 | 809.2 | Started low, then partially recovered. |
+
+Lessons:
+
+- Initial completed scores were not reliable enough for final decisions; several entries moved by more than 100 points afterward.
+- The final two submissions should be chosen from current-day evidence once a visible line is already above 1000.
+- Public-reference labels and short local tests remain weak predictors; delayed public-score behavior is a separate signal that must be tracked.
+
 ## 2026-05-09 Export
 
 Five submissions were used. The best individual score observed today was 1031.7, but the final visible score settled at 908.4 because only the latest two active submissions count for the visible team score.

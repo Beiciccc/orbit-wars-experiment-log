@@ -82,6 +82,14 @@ The official 2026-05-23 episode shard and updated episode index are the highest-
 
 Operationally, the main lesson is final-window preservation: active-window choices need an extra delayed-score check before the last slot, because final-window scores can move materially after initial completion.
 
+## 2026-06-01 Public Review
+
+The public refresh surfaced recently updated high-score heuristic references, including a late May public reference that became the best current-day result after delayed scoring. A newer list refresh was partially blocked by Kaggle API rate limits, so only already downloaded public materials were checked locally.
+
+Small local checks were mixed: a short two-player panel preferred the final selected reference, while a four-player micro-check was less decisive. The leaderboard result confirmed that short local tests should be treated as filters, not score predictors.
+
+The useful direction is final-window risk control: wait for delayed score movement, preserve the best current-day family in one of the final two visible slots, and avoid displacing a 1000+ visible line without stronger current-day evidence.
+
 ## 2026-05-23 Public Review
 
 The latest public refresh surfaced several new notebooks, including a high-score fork claim, visual baseline material, helper functions, and simpler heuristic references. None had enough validation for direct use today.
