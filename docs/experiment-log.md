@@ -340,6 +340,26 @@ Lessons:
 - The safest late-cycle move was still a known baseline rerun, but rerun variance remained large; the strongest score moved across a wide range before the latest stable check.
 - The next improvement path should use visible opponent movement data for threat detection and defense timing, then validate against replay-derived cases before another broad submission cycle.
 
+## 2026-06-02 Export
+
+Five submissions were used. The exported leaderboard snapshot shows a visible score of 958.8 and rank 547. The top 10 threshold was 1510.5.
+
+The day started from a stronger visible line of 1048.2, so the five-submission cycle carried meaningful downside risk. One recent public reference was tested first, then the remaining submissions returned to the known recovery family.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 791.9 | Recent public reference; local validation did not transfer enough. |
+| 2 | 924.7 | Known recovery family, delayed upward movement. |
+| 3 | 870.5 | Same recovery family, moderate result. |
+| 4 | 958.8 | Final visible score after delayed movement. |
+| 5 | 814.2 | Final companion result, below the visible contributor. |
+
+Lessons:
+
+- A high starting visible score should allow only one exploratory submission before recovery repeats.
+- The exact known file was stronger evidence than a same-title refreshed public variant.
+- Final-window scores can still move very late; the visible contributor rose from an initial low score to 958.8.
+
 ## 2026-06-01 Export
 
 Five submissions were used. The exported leaderboard snapshot shows a visible score of 904.1 and rank 693. The top 10 threshold was 1506.1.

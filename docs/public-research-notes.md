@@ -82,6 +82,14 @@ The official 2026-05-23 episode shard and updated episode index are the highest-
 
 Operationally, the main lesson is final-window preservation: active-window choices need an extra delayed-score check before the last slot, because final-window scores can move materially after initial completion.
 
+## 2026-06-02 Public Review
+
+The public refresh found several recent notebooks and tools. The most useful non-submission item was a top-replay review tool, while the most relevant direct candidates were recent heuristic references and refreshed high-score notebooks.
+
+A small local check selected one recent public reference for a controlled probe, but public transfer was weak. The known recovery family remained the best same-day option after delayed scoring, while refreshed same-title variants did not earn a direct slot.
+
+The practical direction is now replay-guided diagnosis: use the newest public episode shard and top-replay tools to study why the recovery family sometimes reaches 1000+ and sometimes stabilizes below that.
+
 ## 2026-06-01 Public Review
 
 The public refresh surfaced recently updated high-score heuristic references, including a late May public reference that became the best current-day result after delayed scoring. A newer list refresh was partially blocked by Kaggle API rate limits, so only already downloaded public materials were checked locally.
