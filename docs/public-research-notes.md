@@ -82,6 +82,14 @@ The official 2026-05-23 episode shard and updated episode index are the highest-
 
 Operationally, the main lesson is final-window preservation: active-window choices need an extra delayed-score check before the last slot, because final-window scores can move materially after initial completion.
 
+## 2026-06-03 Public Review
+
+The public refresh found several newly updated references and a new official episode shard. Local checks did not identify a new public candidate strong enough to justify replacing a 1000+ visible line.
+
+The day therefore became a same-family preservation test. That test failed to preserve the high line: the known recovery family stabilized in the 800s instead of reproducing its earlier 1000+ results.
+
+The next useful public-source direction is replay diagnosis rather than another direct notebook probe: use the newest episode shard and top-replay tooling to identify why the same family alternates between high and moderate public scores.
+
 ## 2026-06-02 Public Review
 
 The public refresh found several recent notebooks and tools. The most useful non-submission item was a top-replay review tool, while the most relevant direct candidates were recent heuristic references and refreshed high-score notebooks.

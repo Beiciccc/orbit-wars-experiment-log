@@ -340,6 +340,26 @@ Lessons:
 - The safest late-cycle move was still a known baseline rerun, but rerun variance remained large; the strongest score moved across a wide range before the latest stable check.
 - The next improvement path should use visible opponent movement data for threat detection and defense timing, then validate against replay-derived cases before another broad submission cycle.
 
+## 2026-06-03 Export
+
+Five submissions were used. The exported leaderboard snapshot shows a visible score of 869.1 and rank 891. The top 10 threshold was 1551.8.
+
+The day started from a much stronger visible line of 1046.6. New public references were reviewed locally, but none had enough evidence to justify a public probe against that starting score, so all five submissions used the same known recovery family.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 829.3 | Same-family repeat, below the starting line. |
+| 2 | 813.8 | Same-family repeat, below the starting line. |
+| 3 | 823.6 | Same-family repeat, below the starting line. |
+| 4 | 869.1 | Final visible contributor. |
+| 5 | 833.3 | Final companion result. |
+
+Lessons:
+
+- Exact same-family repeats can fail to preserve a 1000+ visible score.
+- The known recovery family remains volatile and should be treated as an 800-1050 range, not a safe high-score lock.
+- Public replay analysis is now more important than additional broad local gates.
+
 ## 2026-06-02 Export
 
 Five submissions were used. The exported leaderboard snapshot shows a visible score of 958.8 and rank 547. The top 10 threshold was 1510.5.
