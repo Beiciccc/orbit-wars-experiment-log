@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-04 Public Review
+
+The latest public refresh found several recently run public references from 2026-06-03, including Producer-family material, Guarded Strategy Console, orbit-war-133, orbit demo 5, and a version-1 notebook. Public search did not expose readable new discussion details beyond Kaggle frontend pages.
+
+Only one fresh notebook downloaded during the refresh, and it did not contain a direct runnable competition entry. The remaining high-interest public references should be retried later and reviewed as research material before any leaderboard use.
+
+The main lesson is risk control: a visible 1000+ active window should be preserved unless a new candidate has direct runnable form and fresh same-day evidence. Repeating the prior high-variance family produced only an 800-range final result today.
+
 ## 2026-05-31 Public Review
 
 The latest public refresh found several high-title references from 2026-05-29 and 2026-05-30, including public claims around the 960-1093 range. Local checks did not identify a stable replacement for the verified baseline, and the two public-code entries used in the loop did not reach the starting score.
