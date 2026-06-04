@@ -2,7 +2,7 @@
 
 ## 2026-06-04 Export
 
-Five entries were used. The final exported leaderboard snapshot showed a public score of 816.6 and rank 1152. The top 10 threshold was 1526.4.
+Five entries were used. The final exported leaderboard snapshot showed a public score of 885.1 and rank 843. The top 10 threshold was 1525.8.
 
 The day started from a strong active window near the 1000-point band, but repeated same-family reruns did not reproduce that band in the final exported snapshot.
 
@@ -11,13 +11,13 @@ The day started from a strong active window near the 1000-point band, but repeat
 | 1 | 812.1 | Same-family preservation run recovered from a low initial value but stayed below the starting line. |
 | 2 | 816.9 | Second preservation run stabilized in the same range. |
 | 3 | 844.3 | Best same-day individual result, still below the prior active window. |
-| 4 | 816.6 | Final-window entry became the exported contributor. |
-| 5 | 760.2 | Final companion remained weaker after delayed scoring. |
+| 4 | 885.1 | Final-window entry became the exported contributor after delayed scoring. |
+| 5 | 835.7 | Final companion improved after delayed scoring but remained weaker. |
 
 Lessons:
 
 - A 1000+ active window should not be displaced without fresh same-day evidence above the weaker active score.
-- Same-family reruns can still drift upward from low initial values, but the current observed band is too wide to treat as reliable preservation.
+- Same-family reruns can still drift upward from low initial values, but the current observed band is too wide to treat as reliable high-score preservation.
 - New public references need direct runnable form and stronger same-day evidence before taking quota against a high active window.
 
 ## 2026-05-31 Export

@@ -6,7 +6,7 @@ The latest public refresh found several recently run public references from 2026
 
 Only one fresh notebook downloaded during the refresh, and it did not contain a direct runnable competition entry. The remaining high-interest public references should be retried later and reviewed as research material before any leaderboard use.
 
-The main lesson is risk control: a visible 1000+ active window should be preserved unless a new candidate has direct runnable form and fresh same-day evidence. Repeating the prior high-variance family produced only an 800-range final result today.
+The main lesson is risk control: a visible 1000+ active window should be preserved unless a new candidate has direct runnable form and fresh same-day evidence. Repeating the prior high-variance family produced an upper-800 final result today.
 
 ## 2026-05-31 Public Review
 
