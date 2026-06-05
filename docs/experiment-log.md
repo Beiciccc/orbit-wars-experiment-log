@@ -2,7 +2,7 @@
 
 ## 2026-06-05 Export
 
-Five entries were used. The final exported leaderboard snapshot showed a public score of 920.6 and rank 798. The top 10 threshold was 1542.9.
+Five entries were used. The final exported leaderboard snapshot showed a public score of 1016.7 and rank 647. The top 10 threshold was 1542.9.
 
 The day started from a strong active window above 1000. One newly published high-title reference was tested first, then the remaining entries returned to the known high-variance family after the new reference did not reproduce the claimed range.
 
@@ -11,8 +11,8 @@ The day started from a strong active window above 1000. One newly published high
 | 1 | 872.2 | New high-title public reference did not reproduce its published range. |
 | 2 | 919.6 | Same-family recovery reached the best non-final-window result. |
 | 3 | 736.1 | Recovery repeat stayed weak. |
-| 4 | 920.6 | Final-window entry became the exported contributor after delayed scoring. |
-| 5 | 634.8 | Final companion stayed weak. |
+| 4 | 1016.7 | Final-window entry became the exported contributor after delayed scoring. |
+| 5 | 750.8 | Final companion recovered partially but stayed weaker. |
 
 Lessons:
 
