@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-05 Public Review
+
+The latest public refresh found a new high-title reference from 2026-06-04, plus several other recently run strategy notebooks. The strongest item claimed a public score in the 1200 range and required reconstructing a multi-file package from notebook cells.
+
+The reconstructed package was valid enough to run publicly, but did not reproduce the claimed range in the exported snapshot. Another new public strategy compiled locally but did not justify a direct slot.
+
+New official daily episode data for 2026-06-04 is now available. The next useful research step is replay comparison around the high-title public reference and final-window variance, rather than another direct rerun.
+
 ## 2026-06-04 Public Review
 
 The latest public refresh found several recently run public references from 2026-06-03, including Producer-family material, Guarded Strategy Console, orbit-war-133, orbit demo 5, and a version-1 notebook. Public search did not expose readable new discussion details beyond Kaggle frontend pages.

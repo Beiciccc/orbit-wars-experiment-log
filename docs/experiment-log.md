@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-05 Export
+
+Five entries were used. The final exported leaderboard snapshot showed a public score of 920.6 and rank 798. The top 10 threshold was 1542.9.
+
+The day started from a strong active window above 1000. One newly published high-title reference was tested first, then the remaining entries returned to the known high-variance family after the new reference did not reproduce the claimed range.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 872.2 | New high-title public reference did not reproduce its published range. |
+| 2 | 919.6 | Same-family recovery reached the best non-final-window result. |
+| 3 | 736.1 | Recovery repeat stayed weak. |
+| 4 | 920.6 | Final-window entry became the exported contributor after delayed scoring. |
+| 5 | 634.8 | Final companion stayed weak. |
+
+Lessons:
+
+- Public title claims above 1200 are useful discovery signals but are not reproducibility evidence.
+- A high active window above 1000 should not be displaced without a fresh result already above the weaker active score.
+- Same-family reruns remain capable of late recovery, but final-window companion variance is still the main failure mode.
+
 ## 2026-06-04 Export
 
 Five entries were used. The final exported leaderboard snapshot showed a public score of 885.1 and rank 843. The top 10 threshold was 1525.8.
