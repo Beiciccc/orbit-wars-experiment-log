@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-06 Public Review
+
+The latest public refresh found several recently run references, including Flowdiff, Carbon v1/v2, Multi-focus, Manuru v10, and one high-title notebook that was not self-contained. Flowdiff and Carbon required a support package before they could be tested.
+
+The clean public probes did not reach the top-100 band. Carbon v2 and Multi-focus settled in the low 900s, while the historical high-title package and final-window repeats were weaker in the exported snapshot.
+
+New official daily replay data for 2026-06-05 is now available, along with a small evolution-source dataset. The next useful direction is replay-derived validation against top-100 examples, not more blind direct reruns.
+
 ## 2026-06-05 Public Review
 
 The latest public refresh found a new high-title reference from 2026-06-04, plus several other recently run strategy notebooks. The strongest item claimed a public score in the 1200 range and required reconstructing a multi-file package from notebook cells.

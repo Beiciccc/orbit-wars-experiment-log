@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-06 Export
+
+Five entries were used in a top-100 attempt. The final exported leaderboard snapshot showed a public score of 840.9 and rank 1124. The rank-100 threshold was 1264.3.
+
+The day started from a stronger active window above 970. Fresh public references and one historical high-title package were tested first, but none reached the starting window. The final-window repeats also underperformed.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 922.8 | New multi-focus public reference transferred moderately but stayed below the start line. |
+| 2 | 925.3 | New Carbon v2 public reference became the best same-day probe, still far from top 100. |
+| 3 | 836.1 | Historical high-title package did not reproduce its title range. |
+| 4 | 762.5 | Final-window repeat stayed weak after delayed scoring. |
+| 5 | 840.9 | Final-window companion became the exported contributor but remained below the start line. |
+
+Lessons:
+
+- A top-100 attempt needs fresh same-day evidence above 1100 or a replay-derived validation result; public title claims alone are not enough.
+- The current final-window repeat family is too volatile to protect a 970+ starting window.
+- If fresh probes stay below the weaker active score, adjacent direct reruns should stay research-only.
+
 ## 2026-06-05 Export
 
 Five entries were used. The final exported leaderboard snapshot showed a public score of 1016.7 and rank 647. The top 10 threshold was 1542.9.
