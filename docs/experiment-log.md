@@ -2,7 +2,7 @@
 
 ## 2026-06-06 Export
 
-Five entries were used in a top-100 attempt. The final exported leaderboard snapshot showed a public score of 840.9 and rank 1124. The rank-100 threshold was 1264.3.
+Five entries were used in a top-100 attempt. The final exported leaderboard snapshot showed a public score of 944.2 and rank 815. The rank-100 threshold was 1264.3.
 
 The day started from a stronger active window above 970. Fresh public references and one historical high-title package were tested first, but none reached the starting window. The final-window repeats also underperformed.
 
@@ -11,8 +11,8 @@ The day started from a stronger active window above 970. Fresh public references
 | 1 | 922.8 | New multi-focus public reference transferred moderately but stayed below the start line. |
 | 2 | 925.3 | New Carbon v2 public reference became the best same-day probe, still far from top 100. |
 | 3 | 836.1 | Historical high-title package did not reproduce its title range. |
-| 4 | 762.5 | Final-window repeat stayed weak after delayed scoring. |
-| 5 | 840.9 | Final-window companion became the exported contributor but remained below the start line. |
+| 4 | 831.0 | Final-window repeat recovered partially after delayed scoring. |
+| 5 | 944.2 | Final-window companion became the exported contributor but remained below the start line. |
 
 Lessons:
 
