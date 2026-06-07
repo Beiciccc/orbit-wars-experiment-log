@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-07 Public Review
+
+The latest public refresh found several newly run or updated references, including a refreshed Flowdiff entry, a ProducerLite reference, a high-title fork, a recovery-family reference, replay review utilities, and a tuning notebook.
+
+The strongest direct public signal was Flowdiff at 1024.3, but its final repeat did not reproduce that score. The high-title fork was weak in the current snapshot, and the recovery reference settled below the starting visible line.
+
+New public episode data for 2026-06-06 and a refreshed episode index were downloaded. The most useful next direction is to build a compact replay panel from recent top public rows and tune the Flowdiff/ProducerLite family against that panel.
+
 ## 2026-06-06 Public Review
 
 The latest public refresh found several recently run references, including Flowdiff, Carbon v1/v2, Multi-focus, Manuru v10, and one high-title notebook that was not self-contained. Flowdiff and Carbon required a support package before they could be tested.

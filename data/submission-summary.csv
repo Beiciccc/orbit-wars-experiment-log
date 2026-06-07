@@ -1,6 +1,6 @@
 date,description,status,publicScore
-2026-06-06 03:18:24.850000,2026-06-06 entry 5: final-window repeat B,SubmissionStatus.COMPLETE,944.2
-2026-06-06 03:15:06.660000,2026-06-06 entry 4: final-window repeat A,SubmissionStatus.COMPLETE,831.0
-2026-06-06 03:11:34.113000,2026-06-06 entry 3: historical high-title package,SubmissionStatus.COMPLETE,836.1
-2026-06-06 03:04:06.030000,2026-06-06 entry 2: Carbon v2 public reference,SubmissionStatus.COMPLETE,925.3
-2026-06-06 02:57:39.683000,2026-06-06 entry 1: multi-focus public reference,SubmissionStatus.COMPLETE,922.8
+2026-06-07 07:06:54.063000,2026-06-07 entry 5: Flowdiff repeat,SubmissionStatus.COMPLETE,919.4
+2026-06-07 07:02:35.280000,2026-06-07 entry 4: recovery public reference,SubmissionStatus.COMPLETE,928.8
+2026-06-07 06:56:14.110000,2026-06-07 entry 3: high-title public fork,SubmissionStatus.COMPLETE,695.8
+2026-06-07 06:50:12.513000,2026-06-07 entry 2: ProducerLite public reference,SubmissionStatus.COMPLETE,978.9
+2026-06-07 06:45:52.060000,2026-06-07 entry 1: Flowdiff public reference,SubmissionStatus.COMPLETE,1024.3
