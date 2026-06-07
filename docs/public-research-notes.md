@@ -4,7 +4,7 @@
 
 The latest public refresh found several newly run or updated references, including a refreshed Flowdiff entry, a ProducerLite reference, a high-title fork, a recovery-family reference, replay review utilities, and a tuning notebook.
 
-The strongest direct public signal was Flowdiff. Its first run reached 1024.3, but its final repeat settled at 995.0 after delayed scoring. The high-title fork was weak in the current snapshot, while the recovery reference was useful but not enough to protect the exported row.
+The strongest direct public signal was Flowdiff. Its first run reached 1024.3, but its final repeat settled at 880.7 after delayed scoring. The high-title fork was weak in the current snapshot, while the recovery reference became the exported row at 927.5.
 
 New public episode data for 2026-06-06 and a refreshed episode index were downloaded. The most useful next direction is to build a compact replay panel from recent top public rows and tune the Flowdiff/ProducerLite family against that panel.
 
