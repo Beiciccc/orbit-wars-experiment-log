@@ -2,21 +2,21 @@
 
 ## 2026-06-07 Export
 
-Five entries were used in an aggressive improvement search. The final exported leaderboard snapshot showed a public score of 928.8 and rank 887. The rank-100 threshold was 1262.8.
+Five entries were used in an aggressive improvement search. The final exported leaderboard snapshot showed a public score of 1032.4 and rank 651. The rank-100 threshold was 1263.5.
 
-The day started from a stronger visible line above 1000. The best individual same-day result was a refreshed Flowdiff public reference at 1024.3, but it was displaced from the final visible pair. The final pair settled below the starting line.
+The day started from a stronger visible line above 1000. A refreshed Flowdiff public reference became the best same-day family and eventually improved the final visible line, though it remained far below the top-100 threshold.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 1024.3 | Refreshed Flowdiff reference became the best same-day signal. |
 | 2 | 978.9 | ProducerLite reference recovered to the high-900 range. |
 | 3 | 695.8 | High-title public fork did not transfer. |
-| 4 | 928.8 | Recovery reference became the exported contributor. |
-| 5 | 919.4 | Flowdiff repeat recovered but did not reproduce the first run. |
+| 4 | 1008.4 | Recovery reference became a useful final companion. |
+| 5 | 1032.4 | Flowdiff repeat became the exported contributor after delayed scoring. |
 
 Lessons:
 
-- When an early entry beats the starting visible line, it must be preserved in the final pair immediately.
+- When an early entry beats the starting visible line, it should be preserved in the final pair immediately.
 - Refreshed Flowdiff is a useful current reference, but not yet a top-100 path.
 - The next improvement path is replay-derived tuning from the latest public episode data, not another high-title fork.
 
