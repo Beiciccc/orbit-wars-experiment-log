@@ -2,17 +2,17 @@
 
 ## 2026-06-07 Export
 
-Five entries were used in an aggressive improvement search. The final exported leaderboard snapshot showed a public score of 1000.8 and rank 766. The rank-100 threshold was 1265.3.
+Five entries were used in an aggressive improvement search. The final exported leaderboard snapshot showed a public score of 1049.7 and rank 619. The rank-100 threshold was 1266.0.
 
-The day started from a stronger visible line above 1000. A refreshed Flowdiff public reference became the best same-day signal, and the final repeat recovered to the 1000 band, but it still finished slightly below the starting line.
+The day started from a visible line just above 1000. A refreshed Flowdiff public reference became the best same-day signal, and the final repeat improved the exported row after extended delayed scoring.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 1024.3 | Refreshed Flowdiff reference became the best same-day signal. |
 | 2 | 978.9 | ProducerLite reference recovered to the high-900 range. |
 | 3 | 695.8 | High-title public fork did not transfer. |
-| 4 | 942.6 | Recovery reference provided a weaker final companion. |
-| 5 | 1000.8 | Flowdiff repeat became the exported contributor but did not preserve the first run. |
+| 4 | 979.2 | Recovery reference provided a weaker final companion. |
+| 5 | 1049.7 | Flowdiff repeat became the exported contributor after delayed scoring. |
 
 Lessons:
 
