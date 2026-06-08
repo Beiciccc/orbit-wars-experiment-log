@@ -2,7 +2,7 @@
 
 ## 2026-06-08 Export
 
-Five entries were used in a recovery attempt. The final exported leaderboard snapshot showed a public score of 1129.2 and rank 644. The rank-250 threshold was 1214.9, and the rank-100 threshold was 1269.8.
+Five entries were used in a recovery attempt. The final exported leaderboard snapshot showed a public score of 1154.4 and rank 596. The rank-250 threshold was 1214.9, and the rank-100 threshold was 1268.6.
 
 The day started from a strong visible line at 1160.5. Two public-code exploration entries were weak, then exact Flowdiff preservation partially recovered after extended delayed scoring, but the exported row still finished below the starting line.
 
@@ -11,8 +11,8 @@ The day started from a strong visible line at 1160.5. Two public-code exploratio
 | 1 | 796.7 | High-title rollout reference did not transfer. |
 | 2 | 695.6 | Refreshed Flowdiff variant underperformed the older exact package. |
 | 3 | 600.0 | Recovery repeat did not recover. |
-| 4 | 1117.8 | Final-window repeat recovered partially. |
-| 5 | 1129.2 | Final-window repeat became the exported contributor, below the starting line. |
+| 4 | 1119.3 | Final-window repeat recovered partially. |
+| 5 | 1154.4 | Final-window repeat became the exported contributor, below the starting line. |
 
 Lessons:
 
