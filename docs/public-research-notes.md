@@ -4,7 +4,7 @@
 
 The latest public refresh found several newly run references, including Flowdiff, an LB1300 rollout search, Roman planner variants, Raunak Adaptive Fleet Commander, Barbell, and multiple validation or training notebooks.
 
-The strongest direct public result was exact Flowdiff preservation. The high-title rollout and refreshed Flowdiff variant did not transfer, while the final exact Flowdiff repeat reached 1208.6 after delayed scoring.
+The strongest direct public result was exact Flowdiff preservation. The high-title rollout and refreshed Flowdiff variant did not transfer, while the final exact Flowdiff repeat settled at 1129.2 after delayed scoring. A higher transient score was observed during polling, but it did not hold in the exported snapshot.
 
 New public episode data for 2026-06-07 and a refreshed episode index were downloaded. The next useful direction is replay-derived Flowdiff tuning aimed at the rank-250 and top-100 bands.
 

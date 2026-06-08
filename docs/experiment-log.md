@@ -2,23 +2,23 @@
 
 ## 2026-06-08 Export
 
-Five entries were used in a recovery and rank-250 push. The final exported leaderboard snapshot showed a public score of 1208.6 and rank 290. The rank-250 threshold was 1214.5, and the rank-100 threshold was 1267.1.
+Five entries were used in a recovery attempt. The final exported leaderboard snapshot showed a public score of 1129.2 and rank 644. The rank-250 threshold was 1214.9, and the rank-100 threshold was 1269.8.
 
-The day started from a strong visible line at 1160.5. Two public-code exploration entries were weak, then exact Flowdiff preservation recovered the exported row after extended delayed scoring.
+The day started from a strong visible line at 1160.5. Two public-code exploration entries were weak, then exact Flowdiff preservation partially recovered after extended delayed scoring, but the exported row still finished below the starting line.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 796.7 | High-title rollout reference did not transfer. |
 | 2 | 695.6 | Refreshed Flowdiff variant underperformed the older exact package. |
 | 3 | 600.0 | Recovery repeat did not recover. |
-| 4 | 1097.4 | Final-window repeat recovered partially. |
-| 5 | 1208.6 | Final-window repeat became the exported contributor. |
+| 4 | 1117.8 | Final-window repeat recovered partially. |
+| 5 | 1129.2 | Final-window repeat became the exported contributor, below the starting line. |
 
 Lessons:
 
 - From a 1150+ visible line, direct public title probes need same-day evidence before taking more than one slot.
 - Exact Flowdiff preservation remains the strongest current family.
-- Delayed scoring must be polled for a long window before judging this family.
+- Delayed scoring must be polled for a long window, but a transient peak should not be treated as stable until the exported row is rechecked.
 
 ## 2026-06-07 Export
 
