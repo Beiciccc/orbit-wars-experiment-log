@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-08 Public Review
+
+The latest public refresh found several newly run references, including Flowdiff, an LB1300 rollout search, Roman planner variants, Raunak Adaptive Fleet Commander, Barbell, and multiple validation or training notebooks.
+
+The strongest direct public result was exact Flowdiff preservation. The high-title rollout and refreshed Flowdiff variant did not transfer, while the final exact Flowdiff repeat reached 1208.6 after delayed scoring.
+
+New public episode data for 2026-06-07 and a refreshed episode index were downloaded. The next useful direction is replay-derived Flowdiff tuning aimed at the rank-250 and top-100 bands.
+
 ## 2026-06-07 Public Review
 
 The latest public refresh found several newly run or updated references, including a refreshed Flowdiff entry, a ProducerLite reference, a high-title fork, a recovery-family reference, replay review utilities, and a tuning notebook.

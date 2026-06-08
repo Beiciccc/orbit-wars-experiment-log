@@ -1,6 +1,6 @@
 date,description,status,publicScore
-2026-06-07 07:06:54.063000,2026-06-07 entry 5: Flowdiff repeat,SubmissionStatus.COMPLETE,1049.7
-2026-06-07 07:02:35.280000,2026-06-07 entry 4: recovery public reference,SubmissionStatus.COMPLETE,979.2
-2026-06-07 06:56:14.110000,2026-06-07 entry 3: high-title public fork,SubmissionStatus.COMPLETE,695.8
-2026-06-07 06:50:12.513000,2026-06-07 entry 2: ProducerLite public reference,SubmissionStatus.COMPLETE,978.9
-2026-06-07 06:45:52.060000,2026-06-07 entry 1: Flowdiff public reference,SubmissionStatus.COMPLETE,1024.3
+2026-06-08 13:43:59.433000,2026-06-08 entry 5: Flowdiff final-window repeat,SubmissionStatus.COMPLETE,1208.6
+2026-06-08 13:43:57.003000,2026-06-08 entry 4: Flowdiff final-window repeat,SubmissionStatus.COMPLETE,1097.4
+2026-06-08 13:43:34.873000,2026-06-08 entry 3: Flowdiff preservation repeat,SubmissionStatus.COMPLETE,600.0
+2026-06-08 13:39:30.323000,2026-06-08 entry 2: refreshed Flowdiff reference,SubmissionStatus.COMPLETE,695.6
+2026-06-08 13:36:40.243000,2026-06-08 entry 1: high-title rollout reference,SubmissionStatus.COMPLETE,796.7
