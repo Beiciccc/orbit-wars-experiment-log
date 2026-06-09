@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-09 Export
+
+Five entries were used in a top-100 recovery attempt. The final exported leaderboard snapshot showed a public score of 1272.4 and rank 95. The rank-100 threshold was 1269.8, and the rank-50 threshold was 1351.1.
+
+The day started from a visible line at 1144.5. Two high-title Producer Hybrid entries did not transfer, then exact Flowdiff preservation recovered the final window after extended delayed scoring.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 803.6 | Producer Hybrid reference did not transfer. |
+| 2 | 731.2 | Producer Hybrid rebuild was weaker. |
+| 3 | 600.0 | First Flowdiff repeat did not recover. |
+| 4 | 1272.4 | Final-window repeat became the exported contributor. |
+| 5 | 1147.4 | Final-window companion stayed below the contributor. |
+
+Lessons:
+
+- High-title public references need same-day evidence before taking more than one slot.
+- Exact Flowdiff preservation remains volatile but can still reach the top-100 band.
+- The exported row must be checked after delayed scoring; intermediate score spikes can reverse.
+
 ## 2026-06-08 Export
 
 Five entries were used in a recovery attempt. The final exported leaderboard snapshot showed a public score of 1154.4 and rank 596. The rank-250 threshold was 1214.9, and the rank-100 threshold was 1268.6.

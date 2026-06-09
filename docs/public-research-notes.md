@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-09 Public Review
+
+The latest public refresh found a high-title Producer Hybrid reference, Matrix Edition, replay-checking material, and updated validation notebooks.
+
+The Producer Hybrid entries did not transfer publicly, while exact Flowdiff preservation reached 1272.4 in the exported snapshot after delayed scoring.
+
+New public episode data for 2026-06-08 is available, but the local download reported a size mismatch and needs verification before analysis.
+
 ## 2026-06-08 Public Review
 
 The latest public refresh found several newly run references, including Flowdiff, an LB1300 rollout search, Roman planner variants, Raunak Adaptive Fleet Commander, Barbell, and multiple validation or training notebooks.
