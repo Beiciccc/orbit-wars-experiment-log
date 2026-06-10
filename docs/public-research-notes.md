@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-10 Public Review
+
+The latest public refresh found refreshed Flowdiff material, a new Roman reference, SpeedSci v4, and updated official episode data for 2026-06-09.
+
+Local validation favored a conservative Flowdiff variant in multi-player tests, but it did not transfer publicly. The exact Flowdiff repeat family again showed delayed-score movement, but the final exported score settled at 1096.2.
+
+The next useful direction is replay-state validation from recent official episode data before spending more entries on local-only variants.
+
 ## 2026-06-09 Public Review
 
 The latest public refresh found a high-title Producer Hybrid reference, Matrix Edition, replay-checking material, and updated validation notebooks.

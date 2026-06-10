@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-10 Export
+
+Five entries were used in a preservation attempt from a strong visible line. The final exported leaderboard snapshot showed a public score of 1096.2 and rank 753. The rank-100 threshold was 1267.2, and the rank-250 threshold was 1208.9.
+
+The day started from 1198.7 and rank 305. One local Flowdiff variant was tested first, then four exact Flowdiff repeats were used for final-window recovery. The highest transient delayed score was 1183.3, but the exported row settled lower.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 788.4 | Local conservative variant did not transfer. |
+| 2 | 855.4 | Flowdiff repeat remained below the starting line. |
+| 3 | 911.8 | Flowdiff repeat recovered only partially. |
+| 4 | 1013.2 | Final-window repeat stayed below the active line. |
+| 5 | 1096.2 | Final-window repeat became the exported contributor. |
+
+Lessons:
+
+- Local near-variant self-play is not enough evidence for a slot from a 1190+ visible line.
+- Exact Flowdiff still has delayed-score upside but did not reproduce the prior top-100 tail today.
+- The next improvement step needs replay-state validation from fresh public episode data.
+
 ## 2026-06-09 Export
 
 Five entries were used in a top-100 recovery attempt. The final exported leaderboard snapshot showed a public score of 1272.4 and rank 95. The rank-100 threshold was 1269.8, and the rank-50 threshold was 1351.1.
