@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-11 Export
+
+Five entries were used after the next submission window opened. The final exported leaderboard snapshot showed a public score of 1124.9 and rank 747. The rank-100 threshold was 1275.5, and the rank-250 threshold was 1204.9.
+
+The day started from 1151.6 and rank 614. One fresh public-code entry was tested first, then exact Flowdiff repeats were used for final-window recovery. The strongest transient delayed score was 1234.0, but the exported row settled lower.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 810.4 | Fresh public-code exploration did not transfer. |
+| 2 | 639.7 | Flowdiff repeat stayed weak. |
+| 3 | 696.5 | Flowdiff repeat stayed weak. |
+| 4 | 1124.9 | Final-window repeat became the exported contributor. |
+| 5 | 1092.6 | Final-window companion stayed below the contributor. |
+
+Lessons:
+
+- Strong local 2P/4P validation still did not predict public transfer.
+- Exact Flowdiff remains volatile and can show high transient peaks, but exported stability is the only usable signal.
+- The next improvement step needs replay-state validation from recent public episode data before more direct public-code probes.
+
 ## 2026-06-10 Export
 
 Five entries were used in a preservation attempt from a strong visible line. The final exported leaderboard snapshot showed a public score of 1096.2 and rank 753. The rank-100 threshold was 1267.2, and the rank-250 threshold was 1208.9.

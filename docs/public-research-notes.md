@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-11 Public Review
+
+The latest public refresh found a new ProducerLite Flow-Diff reference, updated Matrix material, LocutusOfBorg, SpeedSci v8, and replay-checking material.
+
+The strongest local public-code candidate did not transfer publicly. Exact Flowdiff again provided the best exported row, but it settled at 1124.9 after a higher transient score.
+
+The next useful direction is a replay-state validation panel built from recent official episode data.
+
 ## 2026-06-10 Public Review
 
 The latest public refresh found refreshed Flowdiff material, a new Roman reference, SpeedSci v4, and updated official episode data for 2026-06-09.
