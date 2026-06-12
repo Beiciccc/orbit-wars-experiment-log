@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-12 Public Review
+
+The latest public refresh found several newly run strategy references, plus updated official episode data, public weights, and trajectory datasets.
+
+The strongest locally validated public-code candidate did not transfer publicly. Exact Flowdiff also failed to recover the starting line, and the exported row settled at 1054.0.
+
+The next useful direction is replay-state validation from recent official episode data before using more entries on direct public-code probes.
+
 ## 2026-06-11 Public Review
 
 The latest public refresh found a new ProducerLite Flow-Diff reference, updated Matrix material, LocutusOfBorg, SpeedSci v8, and replay-checking material.

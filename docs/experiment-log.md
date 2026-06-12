@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-12 Export
+
+Five entries were used after a fresh public-code review. The final exported leaderboard snapshot showed a public score of 1054.0 and rank 969. The rank-100 threshold was 1282.0, and the rank-250 threshold was 1202.1.
+
+The day started from 1132.6 and rank 714. One fresh public-code entry was tested first, then exact Flowdiff repeats were used for final-window recovery. Neither path recovered the starting line.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 850.2 | Fresh public-code exploration did not transfer. |
+| 2 | 932.0 | Flowdiff repeat stayed below the starting line. |
+| 3 | 820.2 | Flowdiff repeat stayed weak. |
+| 4 | 940.5 | Final-window repeat did not recover. |
+| 5 | 1054.0 | Final-window repeat became the exported contributor. |
+
+Lessons:
+
+- Local 4P win rate again failed as a submit gate.
+- Exact Flowdiff did not produce a high-tail draw today.
+- Future entries need replay-state validation from recent public episode data before more public-code probing.
+
 ## 2026-06-11 Export
 
 Five entries were used after the next submission window opened. The final exported leaderboard snapshot showed a public score of 1124.9 and rank 747. The rank-100 threshold was 1275.5, and the rank-250 threshold was 1204.9.
