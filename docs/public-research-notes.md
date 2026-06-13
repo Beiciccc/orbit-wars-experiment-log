@@ -4,7 +4,7 @@
 
 The latest public refresh found newly run replay tools, helper material, Flowdiff-related references, ProducerLite references, and the official 2026-06-12 episode data.
 
-No fresh public-code item had reproducible evidence above the starting line. The available Flowdiff repeat family was therefore used for all five entries, but the exported row settled at 1038.0 and rank 1007.
+No fresh public-code item had reproducible evidence above the starting line. The available Flowdiff repeat family was therefore used for all five entries, but the exported row settled at 1031.2 and rank 1013.
 
 The next useful direction is replay-state validation from recent official episode data, with special attention to latest-window risk when a final companion entry trails the current best entry.
 
