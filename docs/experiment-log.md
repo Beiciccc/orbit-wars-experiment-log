@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-13 Export
+
+Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 1038.0 and rank 1007. The rank-100 threshold was 1289.7, and the rank-250 threshold was 1204.4.
+
+The day started from 1056.4 and rank 979. No fresh public-code reference had reproducible evidence above the starting line, so all five entries used the known Flowdiff repeat family. The run did not recover the starting line.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 805.7 | Stability repeat stayed below the starting line. |
+| 2 | 849.7 | Stability repeat improved only modestly. |
+| 3 | 780.2 | Stability repeat remained weak. |
+| 4 | 1038.0 | Best same-day entry and exported contributor. |
+| 5 | 977.9 | Final companion stayed below the contributor. |
+
+Lessons:
+
+- Repeating the same Flowdiff family is still highly variable and did not protect a low 1050 line.
+- The fifth entry can weaken the latest active window when it trails a stronger fourth entry.
+- Future entries need replay-state validation from recent public episode data before more direct public-code probing.
+
 ## 2026-06-12 Export
 
 Five entries were used after a fresh public-code review. The final exported leaderboard snapshot showed a public score of 1054.0 and rank 969. The rank-100 threshold was 1282.0, and the rank-250 threshold was 1202.1.
