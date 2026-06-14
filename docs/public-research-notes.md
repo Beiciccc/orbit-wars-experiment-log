@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-14 Public Review
+
+The latest public refresh found several new strategy references and the official 2026-06-13 episode data. The most relevant direct candidate was a ProducerLite regroup-limited variant; other public items were kept as research material.
+
+One fresh public-code entry was tested, but it did not transfer publicly. The best exported row came from a Flowdiff recovery entry and settled at 1098.9, rank 891.
+
+The next useful direction is replay-state validation from the latest official episode data and new high-LB four-player datasets before spending more entries on public-code probes.
+
 ## 2026-06-13 Public Review
 
 The latest public refresh found newly run replay tools, helper material, Flowdiff-related references, ProducerLite references, and the official 2026-06-12 episode data.

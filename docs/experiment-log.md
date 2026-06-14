@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-14 Export
+
+Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 1098.9 and rank 891. The rank-100 threshold was 1287.0, and the rank-500 threshold was 1165.1.
+
+The day started from 1115.6 and rank 805. One fresh public-code entry was tested first, then recovery entries returned to the Flowdiff family. The run did not recover the starting line.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 830.6 | Fresh public-code exploration did not transfer. |
+| 2 | 810.6 | Flowdiff recovery stayed weak. |
+| 3 | 1098.9 | Best same-day entry and exported contributor. |
+| 4 | n/a | Submission recorded an error and produced no score. |
+| 5 | 935.7 | Final recovery stayed below the contributor. |
+
+Lessons:
+
+- A small local edge is still not enough evidence for a fresh public-code entry above a 1100+ starting line.
+- Flowdiff can still produce useful late drift, but the exported result remains volatile.
+- Submission errors need immediate follow-up because they can consume quota.
+
 ## 2026-06-13 Export
 
 Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 1031.2 and rank 1013. The rank-100 threshold was 1289.7, and the rank-250 threshold was 1205.8.
