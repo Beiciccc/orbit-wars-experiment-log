@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-15 Export
+
+Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 909.7 and rank 1252. The rank-100 threshold was 1288.9, and the rank-500 threshold was 1168.3.
+
+The day started from 1145.5 and rank 604. Three fresh public-code candidates were tested after package cleanup and runtime checks, but none transferred to the visible leaderboard range suggested by their authors' current public rows. The final two entries returned to the previously validated family, but both landed below the starting window.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 910.6 | Fresh public-code exploration did not transfer. |
+| 2 | 755.3 | Fresh public-code exploration did not transfer. |
+| 3 | 802.0 | Fresh public-code exploration did not transfer. |
+| 4 | 909.7 | Recovery entry became the exported contributor but stayed below the start line. |
+| 5 | 786.2 | Final companion stayed weak. |
+
+Lessons:
+
+- A high current public row from an author is not enough evidence that the downloadable notebook matches the submitted artifact.
+- Local full-game panels remain useful for runtime screening, but not for predicting public transfer.
+- The next useful step is replay-state validation from recent public episode data before using more entries on direct public-code probes.
+
 ## 2026-06-14 Export
 
 Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 1098.9 and rank 891. The rank-100 threshold was 1287.0, and the rank-500 threshold was 1165.1.

@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-15 Public Review
+
+The latest public refresh found several recently run strategy references, a refreshed episode index, and new official episode data. Three fresh public-code candidates were cleaned and runtime-checked before use, but their visible public results did not transfer to this run.
+
+The final exported row settled at 909.7 and rank 1252, below the starting line. The public-review conclusion is that notebook recency and author leaderboard rows are not enough to establish artifact identity.
+
+The next useful direction is a replay-state validation set from the latest official episode data, then candidate promotion only when a cleaned package beats the current reference on those states.
+
 ## 2026-06-14 Public Review
 
 The latest public refresh found several new strategy references and the official 2026-06-13 episode data. The most relevant direct candidate was a ProducerLite regroup-limited variant; other public items were kept as research material.

@@ -1,21 +1,21 @@
-Rank,TeamId,TeamName,LastSubmissionDate,Score,SubmissionCount,TeamMemberUserNames
-1,15654628,Isaiah @ Tufa Labs,2026-06-14 01:18:29,1765.1,2,pressman1
-2,15649057,Jake Will,2026-06-09 23:23:04,1734.0,2,jakewwill
-3,15634651,M & J & M.ver2,2026-06-13 15:28:25,1610.9,2,"jackvd,marisyn,wscmisx"
-4,15660477,Hober Malloc,2026-06-14 04:58:29,1608.0,2,simjeg
-5,15653847,Xiangyu Liu,2026-06-12 11:36:07,1597.1,2,xiangyuliu007
-6,15635790,Vadasz & Ascalon,2026-06-13 14:50:58,1578.3,2,"ascalon,vadasz"
-7,15719716,TonyK,2026-06-12 23:19:58,1556.1,2,tonyk98
-8,15827519,Felix M Neumann,2026-06-13 11:12:42,1554.2,2,felixmneumann
-9,15635910,flg,2026-06-12 14:32:35,1544.0,2,ferdinandlimburg
-10,15633678,dragon warrior,2026-06-13 07:12:53,1542.4,2,loonypenguin
-11,15636758,213tubo,2026-06-11 17:04:34,1535.3,2,tubotubo
-12,15855037,Nebraskinator,2026-06-14 03:21:46,1513.1,2,zacharyruhe
-13,15692729,vkhydras,2026-06-14 05:52:58,1509.0,2,vickimar
-14,15654425,typeIIIfairy,2026-06-14 10:45:20,1503.7,2,typeiiifairy
-15,15642431,Ebi,2026-06-12 05:12:49,1484.4,2,ebinan92
-16,15637676,XtraLearning,2026-06-14 13:31:47,1483.3,2,xcessivesmash
-17,15821351,Ender,2026-06-14 07:08:48,1482.6,2,sinkingpoint
-18,15633381,Roche Overflow,2026-06-14 14:09:23,1481.2,2,"markorupnik,woosungyoon"
-19,15678763,Mooegi,2026-06-14 07:20:59,1475.6,2,mooegi
-20,15648364,bowwowforeach,2026-06-14 12:27:39,1474.9,2,bowwowforeach
+Rank,TeamName,Score,LastSubmissionDate
+1,Isaiah @ Tufa Labs,1753.0,2026-06-14 01:18:29
+2,Jake Will,1723.7,2026-06-09 23:23:04
+3,Hober Malloc,1643.6,2026-06-14 04:58:29
+4,M & J & M.ver2,1629.4,2026-06-13 15:28:25
+5,Xiangyu Liu,1609.7,2026-06-12 11:36:07
+6,Vadasz & Ascalon,1598.2,2026-06-13 14:50:58
+7,Felix M Neumann,1584.7,2026-06-13 11:12:42
+8,Ender,1561.6,2026-06-14 21:53:56
+9,213tubo,1555.0,2026-06-11 17:04:34
+10,vkhydras,1526.3,2026-06-14 20:47:57
+11,TonyK,1523.9,2026-06-12 23:19:58
+12,flg,1522.9,2026-06-12 14:32:35
+13,Nebraskinator,1496.8,2026-06-14 03:21:46
+14,Controlvector,1483.3,2026-06-09 19:40:11
+15,Gregor Lied,1481.6,2026-06-14 15:37:30
+16,typeIIIfairy,1476.1,2026-06-14 23:59:47
+17,Roche Overflow,1474.7,2026-06-14 22:57:04
+18,Artem,1465.4,2026-06-14 16:18:49
+19,Mooegi,1463.7,2026-06-14 07:20:59
+20,XtraLearning,1459.8,2026-06-14 13:31:47
