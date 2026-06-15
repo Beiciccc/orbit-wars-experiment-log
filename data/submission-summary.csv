@@ -1,6 +1,6 @@
 date,description,status,publicScore
-2026-06-15 03:18:16.057000,2026-06-15 entry 5: final recovery entry,SubmissionStatus.COMPLETE,786.2
-2026-06-15 03:14:26.390000,2026-06-15 entry 4: recovery entry,SubmissionStatus.COMPLETE,909.7
+2026-06-15 03:18:16.057000,2026-06-15 entry 5: final recovery entry,SubmissionStatus.COMPLETE,859.3
+2026-06-15 03:14:26.390000,2026-06-15 entry 4: recovery entry,SubmissionStatus.COMPLETE,990.2
 2026-06-15 03:08:31.243000,2026-06-15 entry 3: public-code exploration,SubmissionStatus.COMPLETE,802.0
 2026-06-15 03:03:57.277000,2026-06-15 entry 2: public-code exploration,SubmissionStatus.COMPLETE,755.3
 2026-06-15 03:00:52.880000,2026-06-15 entry 1: public-code exploration,SubmissionStatus.COMPLETE,910.6

@@ -2,7 +2,7 @@
 
 ## 2026-06-15 Export
 
-Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 909.7 and rank 1252. The rank-100 threshold was 1288.9, and the rank-500 threshold was 1168.3.
+Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 990.2 and rank 1148. The rank-100 threshold was 1290.2, and the rank-500 threshold was 1168.0.
 
 The day started from 1145.5 and rank 604. Three fresh public-code candidates were tested after package cleanup and runtime checks, but none transferred to the visible leaderboard range suggested by their authors' current public rows. The final two entries returned to the previously validated family, but both landed below the starting window.
 
@@ -11,8 +11,8 @@ The day started from 1145.5 and rank 604. Three fresh public-code candidates wer
 | 1 | 910.6 | Fresh public-code exploration did not transfer. |
 | 2 | 755.3 | Fresh public-code exploration did not transfer. |
 | 3 | 802.0 | Fresh public-code exploration did not transfer. |
-| 4 | 909.7 | Recovery entry became the exported contributor but stayed below the start line. |
-| 5 | 786.2 | Final companion stayed weak. |
+| 4 | 990.2 | Recovery entry became the exported contributor but stayed below the start line. |
+| 5 | 859.3 | Final companion stayed weak. |
 
 Lessons:
 
