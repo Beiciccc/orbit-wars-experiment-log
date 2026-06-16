@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-16 Public Review
+
+The latest public refresh found several recently run strategy references and new official episode data. After API backoff, several notebooks were pulled and parsed. Two high-row notebooks embedded a package already tested the prior day, and the strongest new clean package did not transfer publicly.
+
+The final exported row settled at 953.1 and rank 1245, below the starting line. The public-review conclusion remains unchanged: public notebook recency, author rows, and local full-game panels are not enough to establish a submit-ready candidate.
+
+The next useful direction is a replay-state validation set from the official 2026-06-15 episode data.
+
 ## 2026-06-15 Public Review
 
 The latest public refresh found several recently run strategy references, a refreshed episode index, and new official episode data. Three fresh public-code candidates were cleaned and runtime-checked before use, but their visible public results did not transfer to this run.
