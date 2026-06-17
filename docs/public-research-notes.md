@@ -4,7 +4,7 @@
 
 The latest public refresh found newly run public-code references, same-day discussion about score movement and queue delays, refreshed official episode data, and refreshed shared public utility data.
 
-One fresh public-code candidate was tested twice, first as initially packaged and then with the refreshed public utility data. Both settled below 800. The remaining entries returned to the known recovery family, but the best exported row settled at 818.9 and rank 1594.
+One fresh public-code candidate was tested twice, first as initially packaged and then with the refreshed public utility data. Both settled below 800. The remaining entries returned to the known recovery family, but the best exported row settled at 942.2 and rank 1322.
 
 The public-review conclusion remains unchanged: notebook recency, public row context, clean packaging, and small local match panels are not enough to establish a submit-ready candidate. The next useful direction is replay-state validation from the latest official episode data.
 

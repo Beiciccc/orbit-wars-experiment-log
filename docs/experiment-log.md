@@ -2,7 +2,7 @@
 
 ## 2026-06-17 Export
 
-Five entries were used after a fresh public-code, discussion, and public-data review. The final exported leaderboard snapshot showed a public score of 818.9 and rank 1594. The rank-100 threshold was 1283.1, and the rank-500 threshold was 1172.3.
+Five entries were used after a fresh public-code, discussion, and public-data review. The final exported leaderboard snapshot showed a public score of 942.2 and rank 1322. The rank-100 threshold was 1282.1, and the rank-500 threshold was 1171.2.
 
 The day started from 1024.8 and rank 1198. A fresh public-code candidate won the small local four-player screening, but it did not transfer publicly. A rebuild with the refreshed public utility data also stayed weak. The remaining entries returned to the known recovery family, which also failed to recover the starting line.
 
@@ -11,8 +11,8 @@ The day started from 1024.8 and rank 1198. A fresh public-code candidate won the
 | 1 | 779.8 | Fresh public-code exploration did not transfer. |
 | 2 | 797.6 | Rebuilt public-code exploration stayed weak. |
 | 3 | 781.5 | Recovery entry stayed below the starting line. |
-| 4 | 818.9 | Best same-day entry and exported contributor. |
-| 5 | 732.8 | Final companion stayed weak. |
+| 4 | 942.2 | Best same-day entry and exported contributor. |
+| 5 | 843.8 | Final companion stayed weak. |
 
 Lessons:
 
