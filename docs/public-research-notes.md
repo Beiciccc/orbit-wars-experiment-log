@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-17 Public Review
+
+The latest public refresh found newly run public-code references, same-day discussion about score movement and queue delays, refreshed official episode data, and refreshed shared public utility data.
+
+One fresh public-code candidate was tested twice, first as initially packaged and then with the refreshed public utility data. Both settled below 800. The remaining entries returned to the known recovery family, but the best exported row settled at 818.9 and rank 1594.
+
+The public-review conclusion remains unchanged: notebook recency, public row context, clean packaging, and small local match panels are not enough to establish a submit-ready candidate. The next useful direction is replay-state validation from the latest official episode data.
+
 ## 2026-06-16 Public Review
 
 The latest public refresh found several recently run strategy references and new official episode data. After API backoff, several notebooks were pulled and parsed. Two high-row notebooks embedded a package already tested the prior day, and the strongest new clean package did not transfer publicly.

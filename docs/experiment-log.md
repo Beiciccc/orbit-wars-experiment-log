@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-17 Export
+
+Five entries were used after a fresh public-code, discussion, and public-data review. The final exported leaderboard snapshot showed a public score of 818.9 and rank 1594. The rank-100 threshold was 1283.1, and the rank-500 threshold was 1172.3.
+
+The day started from 1024.8 and rank 1198. A fresh public-code candidate won the small local four-player screening, but it did not transfer publicly. A rebuild with the refreshed public utility data also stayed weak. The remaining entries returned to the known recovery family, which also failed to recover the starting line.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 779.8 | Fresh public-code exploration did not transfer. |
+| 2 | 797.6 | Rebuilt public-code exploration stayed weak. |
+| 3 | 781.5 | Recovery entry stayed below the starting line. |
+| 4 | 818.9 | Best same-day entry and exported contributor. |
+| 5 | 732.8 | Final companion stayed weak. |
+
+Lessons:
+
+- Public-code recency, clean packaging, and small local match panels are still not enough to predict public transfer.
+- Refreshing the shared public utility data fixed a real reproducibility issue but did not produce leaderboard transfer.
+- The next useful step is replay-state validation from recent public episode data before using more entries on direct public-code probes.
+
 ## 2026-06-16 Export
 
 Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 1051.1 and rank 1101. The rank-100 threshold was 1279.7, and the rank-500 threshold was 1171.7.
