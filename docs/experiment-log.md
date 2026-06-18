@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-18 Export
+
+Five entries were used after a fresh public-code, discussion, and public-data review. The final exported leaderboard snapshot showed a public score of 810.3 and rank 1625. The rank-100 threshold was 1284.0, and the rank-500 threshold was 1167.5.
+
+The day started from 1044.6 and rank 1128. Public-code archives and recent public rows were reviewed, cleaned, and locally checked, but none transferred. The best same-day entry settled at 810.3.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 676.7 | Baseline time-matched probe stayed weak. |
+| 2 | 724.8 | Embedded public archive did not transfer. |
+| 3 | 725.4 | Clean rebuilt archive did not transfer. |
+| 4 | 810.3 | Best same-day entry but still below the start line. |
+| 5 | 737.3 | Public-row probe did not transfer. |
+
+Lessons:
+
+- Embedded archive labels and same-day public context are still not enough evidence for leaderboard transfer.
+- Cleaning package structure prevents avoidable submission issues but does not predict score.
+- The next useful step remains replay-state validation from recent public episode data before spending more entries on direct public-code probes.
+
 ## 2026-06-17 Export
 
 Five entries were used after a fresh public-code, discussion, and public-data review. The final exported leaderboard snapshot showed a public score of 942.2 and rank 1322. The rank-100 threshold was 1282.1, and the rank-500 threshold was 1171.2.

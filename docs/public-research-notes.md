@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-18 Public Review
+
+The latest public refresh found newly run public-code references, refreshed official episode data, and several embedded-archive or audit notebooks. The official 2026-06-17 episode data became available, along with a refreshed episode index.
+
+Several public-code archive variants were cleaned and checked locally, but the best exported row settled at 810.3 and rank 1625. The public-review conclusion is unchanged: visible public context and clean local checks are not enough to establish a submit-ready candidate.
+
+The next useful direction is replay-state validation from the latest official episode data.
+
 ## 2026-06-17 Public Review
 
 The latest public refresh found newly run public-code references, same-day discussion about score movement and queue delays, refreshed official episode data, and refreshed shared public utility data.
