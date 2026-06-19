@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-19 Public Review
+
+The latest public refresh found a new meta snapshot, newly run strategy references, refreshed official episode data, and a refreshed episode index. The starting leaderboard row was already strong at 1205.7 and rank 202, so public-code exploration was treated as too risky for preservation.
+
+Five same-package preservation entries were used, but the best active closeout row fell to 753.9 and rank 1899. The public-review conclusion is that exact repeat preservation is also unreliable without replay-state validation.
+
+The next useful direction is offline replay-state validation from the latest official episode data before any further live entries.
+
 ## 2026-06-18 Public Review
 
 The latest public refresh found newly run public-code references, refreshed official episode data, and several embedded-archive or audit notebooks. The official 2026-06-17 episode data became available, along with a refreshed episode index.

@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-19 Export
+
+Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 753.9 and rank 1899. The rank-100 threshold was 1268.9, and the rank-500 threshold was 1157.0.
+
+The day started from 1205.7 and rank 202 after the prior day's score drift. Because the starting window was already strong, all five entries used the same previously successful package as a preservation attempt. The repeats did not preserve the window, and the latest-two closeout row fell sharply.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 910.0 | Same-package repeat did not reach the start line. |
+| 2 | 826.3 | Same-package repeat stayed weak. |
+| 3 | 827.2 | Same-package repeat stayed weak. |
+| 4 | 753.9 | Exported contributor after latest-window replacement. |
+| 5 | 701.3 | Final companion stayed weak. |
+
+Lessons:
+
+- A package that transferred once can still fail on exact repeat.
+- Latest-window management matters: later weak entries can erase an earlier better repeat.
+- The next useful step is offline replay-state validation before spending more live entries from a strong starting rank.
+
 ## 2026-06-18 Export
 
 Five entries were used after a fresh public-code, discussion, and public-data review. The final exported leaderboard snapshot showed a public score of 810.3 and rank 1625. The rank-100 threshold was 1284.0, and the rank-500 threshold was 1167.5.
