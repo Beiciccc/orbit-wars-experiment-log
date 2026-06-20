@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-20 Export
+
+Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 802.5 and rank 1675. The rank-100 threshold was 1261.8, and the rank-500 threshold was 1148.5.
+
+The day started from 1125.1 and rank 641 after delayed score drift from the prior day. A newly published high-title public reference was rebuilt with its published utility dependency and tested once, then the remaining entries used established reference families and final-window guards. None recovered the starting line.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 645.8 | Fresh high-title public-code exploration did not transfer. |
+| 2 | 820.5 | Established reference family stayed below the starting line. |
+| 3 | 832.3 | Recent public-row family stayed below the starting line. |
+| 4 | 802.5 | Final-window guard became the exported contributor. |
+| 5 | 739.4 | Final companion stayed weak. |
+
+Lessons:
+
+- Public title claims and exact dependency packaging are still not enough evidence for leaderboard transfer.
+- Established reference families can recover from very low values, but not enough to protect an 1100+ start line.
+- The next useful step is replay-state validation from the latest official public episode data before using more live entries on public-code probes.
+
 ## 2026-06-19 Export
 
 Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 753.9 and rank 1899. The rank-100 threshold was 1268.9, and the rank-500 threshold was 1157.0.

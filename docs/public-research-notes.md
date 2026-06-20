@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-20 Public Review
+
+The latest public refresh found a new high-title ProducerLite-style reference, an updated dynamic-control reference, an updated `i, the orbit` reference, the refreshed official episode index, and the new official 2026-06-19 episode data.
+
+The high-title reference was rebuilt with its published support package and used once, but it settled at 645.8. Established reference families then produced 820.5, 832.3, 802.5, and 739.4, leaving the exported leaderboard row at 802.5 and rank 1675.
+
+The public-review conclusion is unchanged: title claims, exact support-package reproduction, and small local runtime checks are not enough to establish a submit-ready candidate. The next useful direction is replay-state validation from the official 2026-06-19 episode data.
+
 ## 2026-06-19 Public Review
 
 The latest public refresh found a new meta snapshot, newly run strategy references, refreshed official episode data, and a refreshed episode index. The starting leaderboard row was already strong at 1205.7 and rank 202, so public-code exploration was treated as too risky for preservation.
