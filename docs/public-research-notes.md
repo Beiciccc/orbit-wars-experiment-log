@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-21 Public Review
+
+The latest public refresh found a new meta snapshot, an updated dynamic-control reference, a replay-checking reference, and the official 2026-06-20 daily episode data. The episode data was verified and used for replay-state screening before entries were used.
+
+The new four-player-oriented reference looked best in the replay-state screen, but settled at 744.5. A second new variant settled at 799.0, and the updated dynamic-control reference settled at 712.8. The final two established anchors completed at 600.0 in the exported snapshot, leaving the visible row at 600.0 and rank 2972.
+
+The public-review conclusion is stricter than before: replay-state screening can reject broken packages, but coarse target matching is not enough to promote a candidate into the final active window. Future promotion needs a replay-derived outcome proxy or same-account live evidence.
+
 ## 2026-06-20 Public Review
 
 The latest public refresh found a new high-title ProducerLite-style reference, an updated dynamic-control reference, an updated `i, the orbit` reference, the refreshed official episode index, and the new official 2026-06-19 episode data.

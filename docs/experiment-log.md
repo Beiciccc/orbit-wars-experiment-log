@@ -1,5 +1,25 @@
 # Experiment Log
 
+## 2026-06-21 Export
+
+Five entries were used after a final-week public-code, discussion, and official episode-data review. The exported leaderboard snapshot showed a public score of 600.0 and rank 2972. The rank-100 threshold was 1260.5, and the rank-500 threshold was 1133.0.
+
+The day started near 1080.6 and rank 795 after delayed score drift from the prior day. The latest official daily episode data was downloaded and used for replay-state screening. One new public reference looked best in that offline screen, but it did not transfer publicly. The final two entries returned to the established anchor family, but both completed at the floor value in the exported snapshot.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 744.5 | New four-player-oriented public-code probe did not transfer. |
+| 2 | 799.0 | New frontier-style public-code probe stayed below the useful range. |
+| 3 | 712.8 | Updated dynamic-control probe stayed below the useful range. |
+| 4 | 600.0 | Final-window anchor completed at the floor value. |
+| 5 | 600.0 | Final-window companion completed at the floor value. |
+
+Lessons:
+
+- Official replay-state screening is useful as a rejection filter, but coarse action matching is still not enough to predict leaderboard transfer.
+- Public package labels and clean packaging remain weak evidence without same-account live evidence.
+- When the first three entries are below 900, the last two entries should be treated as latest-window anchors, not expected improvement attempts.
+
 ## 2026-06-20 Export
 
 Five entries were used after a fresh public-code and public-data review. The final exported leaderboard snapshot showed a public score of 802.5 and rank 1675. The rank-100 threshold was 1261.8, and the rank-500 threshold was 1148.5.
