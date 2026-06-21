@@ -4,7 +4,7 @@
 
 The latest public refresh found a new meta snapshot, an updated dynamic-control reference, a replay-checking reference, and the official 2026-06-20 daily episode data. The episode data was verified and used for replay-state screening before entries were used.
 
-The new four-player-oriented reference looked best in the replay-state screen, but settled at 744.5. A second new variant settled at 799.0, and the updated dynamic-control reference settled at 712.8. The final two established anchors completed at 600.0 in the exported snapshot, leaving the visible row at 600.0 and rank 2972.
+The new four-player-oriented reference looked best in the replay-state screen, but settled at 744.5. A second new variant settled at 799.0, and the updated dynamic-control reference settled at 712.8. The final two established anchors initially completed at the floor value, then drifted upward to 982.8 and 964.8 in the exported recheck, leaving the visible row at 982.8 and rank 1263.
 
 The public-review conclusion is stricter than before: replay-state screening can reject broken packages, but coarse target matching is not enough to promote a candidate into the final active window. Future promotion needs a replay-derived outcome proxy or same-account live evidence.
 
