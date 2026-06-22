@@ -1,5 +1,20 @@
 # Experiment Log
 
+## 2026-06-22 Live Update
+
+1 of 5 entries have completed. The queue uses the established final-window anchor because the visible starting row was already near the rank-500 band and fresh public-code probes from the prior day transferred poorly.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 600.0 | Completed final-window anchor repeat. |
+
+Current lessons:
+
+- In the final window, same-account live evidence is stronger than public package labels.
+- Recent public-code references remain useful for review, but they need stronger replay-derived outcome evidence before replacing the active anchor.
+- Queue delays and delayed scoring require waiting for each official completion before using the next entry.
+
+
 ## 2026-06-21 Export
 
 Five entries were used after a final-week public-code, discussion, and official episode-data review. The exported leaderboard snapshot showed a public score of 982.8 and rank 1263. The rank-100 threshold was 1265.3, and the rank-500 threshold was 1134.2.

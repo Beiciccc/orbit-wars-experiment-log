@@ -1,5 +1,14 @@
 # Public Research Notes
 
+## 2026-06-22 Public Review
+
+The latest public refresh found a new meta snapshot, a refreshed orbit reference, replay-count utilities, a top-band replay study, and the official 2026-06-21 episode data. The episode archive was downloaded and passed zip integrity checks.
+
+Public discussion on 2026-06-22 reported long pending queues, stale pairing concerns, and entries with few follow-up games. Because the current visible row was already stronger than recent public-code transfers, the live queue was kept on the established final-window anchor.
+
+New references were kept as research material unless they could beat the active same-account evidence under a stronger replay-derived gate.
+
+
 ## 2026-06-21 Public Review
 
 The latest public refresh found a new meta snapshot, an updated dynamic-control reference, a replay-checking reference, and the official 2026-06-20 daily episode data. The episode data was verified and used for replay-state screening before entries were used.
