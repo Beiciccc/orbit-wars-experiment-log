@@ -4,5 +4,6 @@ date,description,status,publicScore
 2026-06-21 08:58:02.607000,2026-06-21 entry 3: updated dynamic-control probe,SubmissionStatus.COMPLETE,712.8
 2026-06-21 09:03:25.777000,2026-06-21 final-window anchor,SubmissionStatus.COMPLETE,1070.1
 2026-06-21 09:06:31.443000,2026-06-21 final-window anchor,SubmissionStatus.COMPLETE,1108.0
-2026-06-22 12:13:04.460000,2026-06-22 entry 1: final-window anchor repeat,SubmissionStatus.COMPLETE,600.0
-2026-06-22 12:17:10.760000,2026-06-22 entry 2: final-window anchor repeat,SubmissionStatus.COMPLETE,600.0
+2026-06-22 12:13:04.460000,2026-06-22 entry 1: final-window anchor repeat,SubmissionStatus.COMPLETE,811.5
+2026-06-22 12:17:10.760000,2026-06-22 entry 2: final-window anchor repeat,SubmissionStatus.COMPLETE,714.5
+2026-06-22 12:21:53.290000,2026-06-22 entry 3: final-window anchor repeat,SubmissionStatus.COMPLETE,600.0

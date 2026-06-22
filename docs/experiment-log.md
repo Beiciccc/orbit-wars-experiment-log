@@ -2,12 +2,13 @@
 
 ## 2026-06-22 Live Update
 
-2 of 5 entries have completed. The queue uses the established final-window anchor because the visible starting row was already near the rank-500 band and fresh public-code probes from the prior day transferred poorly.
+3 of 5 entries have completed. The queue uses the established final-window anchor because the visible starting row was already near the rank-500 band and fresh public-code probes from the prior day transferred poorly.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
-| 1 | 600.0 | Completed final-window anchor repeat. |
-| 2 | 600.0 | Completed final-window anchor repeat. |
+| 1 | 811.5 | Completed final-window anchor repeat. |
+| 2 | 714.5 | Completed final-window anchor repeat. |
+| 3 | 600.0 | Completed final-window anchor repeat. |
 
 Current lessons:
 
