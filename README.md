@@ -14,7 +14,7 @@ It does not include implementation code, private configuration, infrastructure d
 
 ## Current Snapshot
 
-- Latest exported snapshot: 2026-06-22 live update 1/5
+- Latest exported snapshot: 2026-06-22 live update 2/5
 - Current public score in the official submission list: 600.0
 - Current public rank in the latest leaderboard snapshot: 558
 - Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
@@ -30,3 +30,6 @@ It does not include implementation code, private configuration, infrastructure d
 ## Notes
 
 All timestamps are UTC unless otherwise stated. Scores are public leaderboard values and can drift over time as additional games are evaluated.
+- Current public score in the official submission list: 600.0
+- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
+- Current public rank in the latest leaderboard snapshot: 558

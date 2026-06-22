@@ -8,7 +8,6 @@ Public discussion on 2026-06-22 reported long pending queues, stale pairing conc
 
 New references were kept as research material unless they could beat the active same-account evidence under a stronger replay-derived gate.
 
-
 ## 2026-06-21 Public Review
 
 The latest public refresh found a new meta snapshot, an updated dynamic-control reference, a replay-checking reference, and the official 2026-06-20 daily episode data. The episode data was verified and used for replay-state screening before entries were used.
