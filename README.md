@@ -42,3 +42,6 @@ All timestamps are UTC unless otherwise stated. Scores are public leaderboard va
 - Current public score in the official submission list: 600.0
 - Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
 - Current public rank in the latest leaderboard snapshot: 558
+- Current public score in the official submission list: 600.0
+- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
+- Current public rank in the latest leaderboard snapshot: 558
