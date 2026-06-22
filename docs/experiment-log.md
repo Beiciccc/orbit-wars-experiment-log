@@ -2,7 +2,7 @@
 
 ## 2026-06-22 Live Update
 
-Five entries were used after a fresh public-code, discussion, and official episode-data review. The latest exported leaderboard snapshot showed a public score of 931.7 and rank 1412. The rank-100 threshold was 1248.8, and the rank-500 threshold was 1117.9.
+Five entries were used after a fresh public-code, discussion, and official episode-data review. The latest exported leaderboard snapshot showed a public score of 978.0 and rank 1224. The rank-100 threshold was 1250.9, and the rank-500 threshold was 1117.8.
 
 The day started from an 1100+ visible row near the rank-500 band. Fresh public-code probes from the prior day had transferred poorly, and new 2026-06-22 public discussion reported long pending queues, stale pairing concerns, and entries with few follow-up games. Because no new reference had stronger same-account evidence, all five entries used the established final-window anchor. The repeats did not preserve the starting line, and the last two entries controlled the exported row.
 
@@ -11,8 +11,8 @@ The day started from an 1100+ visible row near the rank-500 band. Fresh public-c
 | 1 | 907.3 | Completed final-window anchor repeat. |
 | 2 | 890.3 | Completed final-window anchor repeat. |
 | 3 | 799.9 | Completed final-window anchor repeat. |
-| 4 | 931.7 | Completed final-window anchor repeat. |
-| 5 | 830.8 | Completed final-window anchor repeat. |
+| 4 | 978.0 | Completed final-window anchor repeat. |
+| 5 | 896.2 | Completed final-window anchor repeat. |
 
 Current lessons:
 
