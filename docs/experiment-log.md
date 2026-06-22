@@ -2,7 +2,9 @@
 
 ## 2026-06-22 Live Update
 
-5 of 5 entries have completed. The queue uses the established final-window anchor because the visible starting row was already near the rank-500 band and fresh public-code probes from the prior day transferred poorly.
+Five entries were used after a fresh public-code, discussion, and official episode-data review. The post-loop leaderboard snapshot showed a public score of 660.1 and rank 2497. The rank-100 threshold was 1246.9, and the rank-500 threshold was 1117.3.
+
+The day started from an 1100+ visible row near the rank-500 band. Fresh public-code probes from the prior day had transferred poorly, and new 2026-06-22 public discussion reported long pending queues, stale pairing concerns, and entries with few follow-up games. Because no new reference had stronger same-account evidence, all five entries used the established final-window anchor. The repeats did not preserve the starting line, and the last two entries controlled the exported row.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
@@ -17,6 +19,7 @@ Current lessons:
 - In the final window, same-account live evidence is stronger than public package labels.
 - Recent public-code references remain useful for review, but they need stronger replay-derived outcome evidence before replacing the active anchor.
 - Queue delays and delayed scoring require waiting for each official completion before using the next entry.
+- Repeating a prior anchor can still erase a strong visible row when the latest two entries are both weak; preservation needs a stricter stop rule when early repeats fall below the starting line.
 
 ## 2026-06-21 Export
 

@@ -14,10 +14,12 @@ It does not include implementation code, private configuration, infrastructure d
 
 ## Current Snapshot
 
-- Latest exported snapshot: 2026-06-22 live update 5/5
-- Current public score in the official submission list: 600.0
-- Current public rank in the latest leaderboard snapshot: 558
-- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
+- Latest exported snapshot: 2026-06-22 12:40:52 UTC public leaderboard
+- Current public leaderboard score: 660.1
+- Current public leaderboard rank: 2497
+- Rank 100 public score threshold: 1246.9
+- Rank 500 public score threshold: 1117.3
+- Latest completed submission-row scores: 907.3, 890.3, 799.9, 685.0, 600.0
 
 ## Files
 
@@ -30,18 +32,3 @@ It does not include implementation code, private configuration, infrastructure d
 ## Notes
 
 All timestamps are UTC unless otherwise stated. Scores are public leaderboard values and can drift over time as additional games are evaluated.
-- Current public score in the official submission list: 600.0
-- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
-- Current public rank in the latest leaderboard snapshot: 558
-- Current public score in the official submission list: 600.0
-- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
-- Current public rank in the latest leaderboard snapshot: 558
-- Current public score in the official submission list: 600.0
-- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
-- Current public rank in the latest leaderboard snapshot: 558
-- Current public score in the official submission list: 600.0
-- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
-- Current public rank in the latest leaderboard snapshot: 558
-- Current public score in the official submission list: 600.0
-- Top 100 public score threshold in the latest leaderboard snapshot: 1251.8
-- Current public rank in the latest leaderboard snapshot: 558

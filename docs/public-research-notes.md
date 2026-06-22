@@ -6,7 +6,7 @@ The latest public refresh found a new meta snapshot, a refreshed orbit reference
 
 Public discussion on 2026-06-22 reported long pending queues, stale pairing concerns, and entries with few follow-up games. Because the current visible row was already stronger than recent public-code transfers, the live queue was kept on the established final-window anchor.
 
-New references were kept as research material unless they could beat the active same-account evidence under a stronger replay-derived gate.
+New references were kept as research material unless they could beat the active same-account evidence under a stronger replay-derived gate. The final result showed the remaining preservation risk: repeated anchor entries can still land weakly enough that the latest-two window overwrites a stronger visible row. Future use of the same anchor should require either stronger replay-outcome evidence or a stop rule after the first low repeat.
 
 ## 2026-06-21 Public Review
 
