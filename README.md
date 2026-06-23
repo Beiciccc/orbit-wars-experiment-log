@@ -14,17 +14,17 @@ It does not include implementation code, private configuration, infrastructure d
 
 ## Current Snapshot
 
-- Latest exported snapshot: 2026-06-23 delayed recheck 5/5
+- Latest exported snapshot: 2026-06-23 final recheck 5/5
 - Starting public leaderboard score: 1083.5
 - Starting public leaderboard rank: 694
 - Starting rank 100 public score threshold: 1253.9
 - Starting rank 500 public score threshold: 1113.9
-- Current public leaderboard score: 872.6
-- Current public leaderboard rank: 1522
+- Current public leaderboard score: 1003.2
+- Current public leaderboard rank: 1067
 - Current rank 100 public score threshold: 1260.8
-- Current rank 500 public score threshold: 1114.2
-- Current rank 1000 public score threshold: 1017.7
-- Latest completed submission-row scores: 575.2, 844.9, 821.7, 872.6, 712.3
+- Current rank 500 public score threshold: 1114.5
+- Current rank 1000 public score threshold: 1018.7
+- Latest completed submission-row scores: 575.2, 844.9, 821.7, 1003.2, 901.3
 
 ## Files
 

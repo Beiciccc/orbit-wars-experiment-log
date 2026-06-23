@@ -6,15 +6,15 @@ The day started from a public leaderboard score of 1083.5 and rank 694. The rank
 
 Fresh public review found no new official daily episode data beyond 2026-06-21 and no 2026-06-23 public-code run at refresh time. New discussion clarified that the deadline was not extended and lost attempts would not be refunded. One fresh weights-based package passed import and replay-state runtime checks, so it was used as the first probe. It returned the floor score and will not be repeated.
 
-The delayed export after all five entries showed a public leaderboard score of 872.6 and rank 1522. The rank-100 threshold was 1260.8, the rank-500 threshold was 1114.2, and the rank-1000 threshold was 1017.7. The fourth and fifth entries improved after early floor values, but the exported row still fell below the starting line.
+The final recheck after all five entries showed a public leaderboard score of 1003.2 and rank 1067. The rank-100 threshold was 1260.8, the rank-500 threshold was 1114.5, and the rank-1000 threshold was 1018.7. The fourth and fifth entries improved after early floor values, but the exported row still fell below the starting line.
 
 | Iteration | Public score | Result |
 | --- | ---: | --- |
 | 1 | 575.2 | Fresh weights probe did not transfer. |
 | 2 | 844.9 | Recovery anchor drifted upward but stayed below the start line. |
 | 3 | 821.7 | Recovery-family diversity sample drifted upward but stayed below the start line. |
-| 4 | 872.6 | Final-window recovery drifted upward but stayed below the start line. |
-| 5 | 712.3 | Final-window companion drifted upward but stayed weak. |
+| 4 | 1003.2 | Final-window recovery crossed 1000 but stayed below the start line. |
+| 5 | 901.3 | Final-window companion improved but stayed below the protection range. |
 
 Current lessons:
 
