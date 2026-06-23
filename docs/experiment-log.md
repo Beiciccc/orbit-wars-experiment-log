@@ -10,8 +10,9 @@ Fresh public review found no new official daily episode data beyond 2026-06-21 a
 | --- | ---: | --- |
 | 1 | 575.2 | Fresh weights probe did not transfer. |
 | 2 | 844.9 | Recovery anchor drifted upward but stayed below the start line. |
-| 3 | 706.2 | Recovery-family diversity sample stayed weak. |
-| 4 | 600.0 | Final-window recovery initially returned the floor score. |
+| 3 | 821.7 | Recovery-family diversity sample drifted upward but stayed below the start line. |
+| 4 | 747.0 | Final-window recovery drifted upward but stayed weak. |
+| 5 | 600.0 | Final-window companion initially returned the floor score. |
 
 Current lessons:
 
