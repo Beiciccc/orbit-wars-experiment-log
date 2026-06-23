@@ -14,12 +14,12 @@ It does not include implementation code, private configuration, infrastructure d
 
 ## Current Snapshot
 
-- Latest exported snapshot: 2026-06-23 live update 3/5
+- Latest exported snapshot: 2026-06-23 live update 4/5
 - Starting public leaderboard score: 1083.5
 - Starting public leaderboard rank: 694
 - Starting rank 100 public score threshold: 1253.9
 - Starting rank 500 public score threshold: 1113.9
-- Latest completed submission-row scores: 698.5, 600.0, 600.0
+- Latest completed submission-row scores: 575.2, 844.9, 706.2, 600.0
 
 ## Files
 
