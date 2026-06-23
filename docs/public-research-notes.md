@@ -1,5 +1,13 @@
 # Public Research Notes
 
+## 2026-06-23 Public Review
+
+The latest public refresh found no new official daily episode data beyond 2026-06-21 and no visible 2026-06-23 public-code run at the time of review. The most recent public-code activity was still from 2026-06-22.
+
+New discussion confirmed that the submission issue was believed fixed, the deadline would not be extended, and lost attempts would not be refunded. The final rating reset question did not have a clear public answer in the reviewed discussion, so the closeout plan continues to treat the latest active entries as the practical final-window constraint.
+
+A newly published weights-based package was reviewed because it was self-contained and passed runtime checks, but its first live result returned the floor score. It is therefore kept as research material rather than repeated.
+
 ## 2026-06-22 Public Review
 
 The latest public refresh found a new meta snapshot, a refreshed orbit reference, replay-count utilities, a top-band replay study, and the official 2026-06-21 episode data. The episode archive was downloaded and passed zip integrity checks.

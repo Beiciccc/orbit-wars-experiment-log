@@ -1,5 +1,21 @@
 # Experiment Log
 
+## 2026-06-23 Live Update
+
+The day started from a public leaderboard score of 1083.5 and rank 694. The rank-100 threshold was 1253.9, and the rank-500 threshold was 1113.9.
+
+Fresh public review found no new official daily episode data beyond 2026-06-21 and no 2026-06-23 public-code run at refresh time. New discussion clarified that the deadline was not extended and lost attempts would not be refunded. One fresh weights-based package passed import and replay-state runtime checks, so it was used as the first probe. It returned the floor score and will not be repeated.
+
+| Iteration | Public score | Result |
+| --- | ---: | --- |
+| 1 | 600.0 | Fresh weights probe did not transfer. |
+
+Current lessons:
+
+- Runtime safety and replay-state checks are necessary but still not sufficient for live transfer.
+- After a floor-score fresh probe, the remaining entries should return to the strongest same-account evidence rather than repeat the failed package.
+- The last two active entries remain the main closeout risk, so later entries must be selected for recovery rather than exploration.
+
 ## 2026-06-22 Live Update
 
 Five entries were used after a fresh public-code, discussion, and official episode-data review. The latest exported leaderboard snapshot showed a public score of 978.0 and rank 1224. The rank-100 threshold was 1250.9, and the rank-500 threshold was 1117.8.
