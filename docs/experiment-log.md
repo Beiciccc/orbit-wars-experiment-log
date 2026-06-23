@@ -10,11 +10,12 @@ Fresh public review found no new official daily episode data beyond 2026-06-21 a
 | --- | ---: | --- |
 | 1 | 698.5 | Fresh weights probe did not transfer. |
 | 2 | 600.0 | Recovery anchor initially returned the floor score. |
+| 3 | 600.0 | Recovery-family diversity sample initially returned the floor score. |
 
 Current lessons:
 
 - Runtime safety and replay-state checks are necessary but still not sufficient for live transfer.
-- After a floor-score fresh probe and a weak first recovery entry, the middle slot can be used for a recovery-family diversity sample while reserving the last two entries for closeout.
+- After a floor-score fresh probe and two weak recovery entries, the remaining two entries should be treated only as final-window recovery.
 - The last two active entries remain the main closeout risk, so later entries must be selected for recovery rather than exploration.
 
 ## 2026-06-22 Live Update
