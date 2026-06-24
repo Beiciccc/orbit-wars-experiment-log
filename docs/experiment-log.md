@@ -1,5 +1,19 @@
 # Experiment Log
 
+## 2026-06-24 Evaluation-Lock Check
+
+The latest exported leaderboard snapshot showed a public score of 1101.3 and rank 518. The rank-100 threshold was 1253.4, the rank-500 threshold was 1104.0, and the rank-1000 threshold was 1016.6.
+
+Fresh public review found the official 2026-06-23 daily episode data, several late public-code updates, and new solution writeups. The strongest immediate finding was a public clarification that additional submissions are locked after the 2026-06-23 deadline, while games continue for the final evaluation period without a leaderboard reset.
+
+One guarded upload attempt returned HTTP 400 and did not create a new official row. The official submissions list therefore remained unchanged, with the latest two completed rows at 1049.5 and 1101.3.
+
+Current lessons:
+
+- After the additional-submission lock, public-score work should shift to monitoring and replay analysis.
+- Upload attempts that do not create official rows do not count as completed entries.
+- Late public solution writeups are useful for long-run modeling ideas, but not for same-day public-score changes once additional entries are locked.
+
 ## 2026-06-23 Live Update
 
 The day started from a public leaderboard score of 1083.5 and rank 694. The rank-100 threshold was 1253.9, and the rank-500 threshold was 1113.9.
