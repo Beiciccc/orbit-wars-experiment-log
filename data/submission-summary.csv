@@ -12,5 +12,5 @@ date,description,status,publicScore
 2026-06-23 00:14:06.780000,2026-06-23 entry 1: fresh weights probe,SubmissionStatus.COMPLETE,575.2
 2026-06-23 00:20:02.870000,2026-06-23 entry 2: recovery anchor,SubmissionStatus.COMPLETE,844.9
 2026-06-23 00:27:13,2026-06-23 entry 3: recovery-family diversity sample,SubmissionStatus.COMPLETE,821.7
-2026-06-23 00:32:09.760000,2026-06-23 entry 4: final-window recovery,SubmissionStatus.COMPLETE,1049.5
-2026-06-23 00:37:10.510000,2026-06-23 entry 5: final-window companion,SubmissionStatus.COMPLETE,1101.3
+2026-06-23 00:32:09.760000,2026-06-23 entry 4: final-window recovery,SubmissionStatus.COMPLETE,1086.7
+2026-06-23 00:37:10.510000,2026-06-23 entry 5: final-window companion,SubmissionStatus.COMPLETE,1094.1
