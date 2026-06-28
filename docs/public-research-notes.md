@@ -1,5 +1,17 @@
 # Public Research Notes
 
+## 2026-06-29 Public Review
+
+The latest public refresh found official episode data through 2026-06-27, a refreshed submission rating tracker, and a late public-code reference that remains useful for study but cannot be used for new entries while the evaluation lock is active.
+
+Public discussion confirms the final-evaluation interpretation: additional entries are locked after the 2026-06-23 deadline, games continue to run, and no leaderboard reset is planned. The current public score can still drift as final games complete.
+
+The most useful postmortem directions are now:
+
+- large-scale self-play with transformer policies, quantized deployment, and fallback models for runtime constraints
+- smaller behavior-cloning systems using strong replay data, fast local engines, replay cutoff rules, and SPRT-style validation
+- daily episode analysis to understand why the active row drifts around the rank-500 boundary
+
 ## 2026-06-23 Public Review
 
 The latest public refresh found no new official daily episode data beyond 2026-06-21 and no visible 2026-06-23 public-code run at the time of review. The most recent public-code activity was still from 2026-06-22.

@@ -1,5 +1,19 @@
 # Experiment Log
 
+## 2026-06-29 Evaluation-Lock Check
+
+The latest exported leaderboard snapshot showed a public score of 1079.9 and rank 534. The rank-100 threshold was 1263.2, the rank-500 threshold was 1083.8, and the rank-1000 threshold was 1018.4.
+
+The official submissions list still had no accepted rows after 2026-06-23. A guarded upload attempt returned HTTP 400 and created no new row, confirming that additional entries remain locked during the final evaluation period.
+
+Fresh public review found the official 2026-06-27 daily episode data, a refreshed rating-tracker notebook, a late public-code reference, and two high-value postmortem writeups. The useful direction is now replay analysis and future-method study; public-score changes can no longer be made through new entries.
+
+Current lessons:
+
+- The active row remains near the rank-500 threshold, but it can only move through final-evaluation games.
+- Upload attempts after the lock do not count as completed entries unless the official list gains a row.
+- The strongest future-study directions are large-scale self-play training and smaller behavior-cloning systems with fast replay validation.
+
 ## 2026-06-25 Evaluation-Lock Check
 
 The latest exported leaderboard snapshot showed a public score of 1094.1 and rank 519. The rank-100 threshold was 1264.2, the rank-500 threshold was 1096.6, and the rank-1000 threshold was 1011.5.
