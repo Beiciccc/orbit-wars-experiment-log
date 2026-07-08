@@ -1,5 +1,17 @@
 # Experiment Log
 
+## 2026-07-08 Final Results
+
+The competition finished with a final score of 1100.7 and rank 409 / 4730. The final rank-100 threshold was 1225.2, the final rank-500 threshold was 1086.1, and the final rank-1000 threshold was 1009.3.
+
+The best tracked entry was submission ref 53961671, submitted on 2026-06-23 00:32:09.760000 UTC. Its final public and private scores were both 1100.7. The last active pair settled at 1100.7 and 1037.0, leaving the final visible row above the rank-500 threshold.
+
+Final lessons:
+
+- The final-evaluation period materially changed the visible row after the submission lock.
+- The best outcome came from preserving a strong final-window entry rather than later locked-window upload attempts.
+- Final publication should use the official post-competition export rather than earlier public snapshots.
+
 ## 2026-06-29 Evaluation-Lock Check
 
 The latest exported leaderboard snapshot showed a public score of 1079.9 and rank 534. The rank-100 threshold was 1263.2, the rank-500 threshold was 1083.8, and the rank-1000 threshold was 1018.4.

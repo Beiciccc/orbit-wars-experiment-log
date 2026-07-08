@@ -1,5 +1,15 @@
 # Public Research Notes
 
+## 2026-07-08 Final Archive Review
+
+The final results export shows that final-evaluation games continued to move the active row after the submission lock. The final score settled above the rank-500 threshold, so the archive now treats 2026-07-08 as the source of truth for leaderboard status.
+
+The most useful public post-competition directions remain:
+
+- reproduce strong public solution writeups against the official episode data
+- compare final-window entries using completed episode histories rather than transient public scores
+- separate final result documentation from future method experiments
+
 ## 2026-06-29 Public Review
 
 The latest public refresh found official episode data through 2026-06-27, a refreshed submission rating tracker, and a late public-code reference that remains useful for study but cannot be used for new entries while the evaluation lock is active.
